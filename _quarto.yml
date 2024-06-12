@@ -1,6 +1,6 @@
 project:
   type: book
-  output-dir: guide
+  output-dir: docs
 
 book:
   title: "Research Data Guide"
