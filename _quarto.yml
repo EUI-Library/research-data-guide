@@ -8,7 +8,7 @@ book:
   author: "EUI Library"
   editor: "Simone Sacchi"
   edition: "12"
-  date: "5/2/2024"
+  date: last-modified
   cover-image: images/Cover-Data-Guide-2023-Small281x397.jpg
   repo-url: https://github.com/EUI-Library/research-data-guide
   sidebar:
