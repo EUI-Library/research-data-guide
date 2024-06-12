@@ -1,0 +1,39 @@
+# DMPs and funded projects {.unnumbered}
+
+Most funding agencies are now requiring grantees to submit a Data Management Plan (DMP) as part of the required project deliverables, with updated versions issued after the initial 6 months, at mid-term, and at the end of the project. 
+
+EUI **Principal Investigators** and **Project Managers** have the responsibility to make sure that a DMP is prepared according to the guidance and templates of the specific funding agency. The Horizon Europe Programme Guide[^61] and the ERC Work Programme[^62] provide guidance for project proposers.
+
+Data management sections of project proposals are evaluated by the European Commission under the criterion 'impact', which includes scientific and societal benefit. In this context, most funding agencies have been embracing the principles and practice of **Open Science**, defined by the European Commission as 
+
+>  "an approach to the scientific process that focuses on spreading knowledge as soon as it is available using digital and collaborative technology [...] Open science is a policy priority for the European Commission and the standard method of working under its research and innovation funding programmes as it improves the quality, efficiency and responsiveness of research. When researchers share knowledge and data as early as possible in the research process with all relevant actors it helps diffuse the latest knowledge."[^1]
+
+The Horizon Europe programme requires grant beneficiaries to reposit open research data outputs in a research repository. The EUI research repository, Cadmus, can be used for the reposit of EUI Horizon Europe and ERC project data outputs. Project results can also be shared via other [trusted repositories](./other-publishing-routes.html)
+
+The EC guidelines state that "as far as possible, projects must then take measures to enable third parties to access, mine, exploit, reproduce and disseminate (free of charge for any user) this research data. One way of doing this is to attach Creative Commons Licences (CC BY or CC0) to the data reposited."[^66] 
+
+::: {.callout-tip}
+
+See the section [Data Management Plan (DMP)](./dmp.html) for details on the aspects to address in a DMP
+
+:::
+
+During preparation of the DMP EUI **Principal Investigators** and **Project Managers** may need to liaise with Library staff, the Data Protection Officer, the Data Security Officer and/or the Ethics Committee (if approval is required). The EUI Library assists principal investigators and project managers with the data management sections of funding proposals and the subsequent data management plans. Please reach out to the [Research Data Librarian](mailto:resdata@eui.eu)
+
+The European Open Science Cloud (EOSC) portal was launched in 2018. The EOSC portal enables the discovery of tools and resources for data analysis, and information about storage, computation, training and security. The European Commission provides two supporting guides: 
+
+- Prompting EOSC in Practice, which explains the governance of the service and 
+- Turning FAIR into Reality[^70] which explains how to make research data findable, accessible, interoperable and reusable. 
+
+The European University Institute endorsed the European Open Science Cloud Declaration in 2017. The Social Sciences & Humanities Open Marketplace was launched in 2022 to provide "tools, services, training materials, datasets, publications and workflows" for researchers.[^71] Institutional partners are coordinated by the Consortium of European Social Science Data Archives (CESSDA).[^72]
+
+
+## EUI research data guidelines and standards
+
+EUI members can cite these institutional guidelines in their data management plans:
+
+- EUI 'Code of Ethics in Academic Research'
+- EUI Library 'Research Data Guide'
+
+[^1]: European Commission - Research and Innovation - Open Science [https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/open-science_en](https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/open-science_en)
+[^2]: [https://rea.ec.europa.eu/open-science_en](https://rea.ec.europa.eu/open-science_en)

@@ -1,0 +1,38 @@
+# Secure Data Room {.unnumbered}
+
+The Library provides support for EUI members using highly restricted data. Some data providers request guarantees of extra security measures for access to, and use of, sensitive data.
+
+The **EUI Library Secure Data Room** is located on the upper floor of the Library, Badia Fiesolana (BF-173). The Room is only accessible to scholars processing sensitive data, or using data from providers whose contracts explicitly require that data be used in a locked room and/or require other restricted physical, or additional access protocols. The room is not for 'general' data access and use. 
+
+## Request access to the Secure Data Room
+
+To request access and  use of the EUI Library Secire Data Room, scholars should send a copy of their data access contracts to [resdata@eui.eu](mailto:resdata@eui.eu) and provide the following information:
+
+- Name of data issuer/publisher
+- Title of dataset, with internet link (if available)
+- Names of research team members (EUI and external), with email contacts
+- What special conditions are required for access to the data (eg. remote protocol)?
+- What special conditions are required for use of the data?
+- Does the data issuer require a contract counter-signature from the EUI Data Protection Officer?
+- Does the data issuer require that the data be used in a secure data room?
+- Does the data issuer require that the data be used on a stand-alone, off-line computer?
+- For projects with non-EUI collaborators: What controller/processing operations will be undertaken by research partners?
+
+## How to use the Secure Data Room
+
+- The Secure Data Room, BF-173, is located on the upper floor of the Library, Badia Fiesolana.
+- The names of scholars who are authorised to access the Secure Data Room are indicated on the door label.  Only the users listed, and Library staff, can access the Room.
+- Authorized scholars can request the key to the room at the EUI Library information desk at the Library entance in the Vasgo De Gama room. The key must be returned to the Loan Desk after the user session.
+- Authorised users can use a computer (Monday to Saturday) in workspaces #1, #2 or #6. (Workspaces #3, and #4  are reserved for specific datasets workspace #5 is for use of authorized laptops).
+- Scholars are co-responsible for keeping the space accessible to authorised users only. Only those EUI members listed on the door label can access the Secure Data Room.
+
+## Workspaces in the Secure Data Room
+
+- Workspaces **#1**, **#2** or **#6** can be used on a first-come first-serve modality
+- Workspaces **#3** and **#4** are reserved for specific datasets.
+- Workspace **#5** can be utilized for authorised laptop use.
+
+::: callout-note
+- Some data providers require [EUI Ethics Committee](https://www.eui.eu/en/public/about/committees/ethics-committee) approval and/or DPO oversight. The Principal Investigator should initiate the request.
+- If required by the data issuer, the ICT Data Security Officer can provide a description of ICT security protocols and infrastructure: [Data_Security_Officer@eui.eu](mailto:Data_Security_Officer@eui.eu)
+:::

@@ -1,0 +1,31 @@
+# Ethics review {.unnumbered}
+
+The collection and processing of personal data for research purposes may require EUI scholars to apply for **Ethics Review**
+before data collection and processing can begin. 
+
+The Ethics Review is carried out by the **EUI Ethics Committee**
+
+> The Ethics Committee is appointed by the Academic Council upon nomination of the Principal to provide advice and guidance to the academic community at the EUI on all matters pertaining to academic / research ethics and to confirm - where needed - to external parties ethical compliance of research projects on behalf of the EUI.[^1]
+
+The Ethics Review 
+
+-  
+
+Principal investigators should consult the online Initial Checklist on the Ethics Committee
+homepage.[^23] EUI members can initiate the review via the link
+\'Procedure to request an Ethics Review\' (intranet login required). The
+Ethics Committee review must be completed before data collection
+begins - approval cannot be granted retroactively. The review can take
+up to six weeks.
+
+EUI members have access to the online Collaborative Institutional
+Training Initiative (CITI) platform, providing training on research
+ethics including: Human subjects research; Responsible conduct of
+research; Observational research protocols; General Data Protection
+Regulation (GDPR) for research, and Essentials of grant proposal
+development. EUI members can create a CITI account (username and
+password) via the EUI intranet (login required)[^24] selecting 'European
+University Institute' from the drop-down menu.
+
+
+[^1]: https://www.eui.eu/en/public/about/committees/ethics-committee

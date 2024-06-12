@@ -1,0 +1,80 @@
+project:
+  type: book
+  output-dir: guide
+
+book:
+  title: "Research Data Guide"
+  subtitle: "Prepared by the EUI Library."
+  author: "EUI Library"
+  editor: "Simone Sacchi"
+  edition: "12"
+  date: "5/2/2024"
+  cover-image: images/Cover-Data-Guide-2023-Small281x397.jpg
+  repo-url: https://github.com/EUI-Library/research-data-guide
+  sidebar:
+    logo: images/logo-eui.svg
+    collapse-level: 2
+  page-footer:
+    left: "Unless otherwise specified: [![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)" 
+    center: "© European University Institute, 2024"
+  favicon: images/favicon-32x32.png
+  chapters:
+    - index.qmd
+    - preface.qmd
+    - part: "Basics of this guide"
+      chapters: 
+        - basic-concepts.qmd
+        - how-to.qmd
+    - part: "PART 1: PLAN AND MANAGE"
+      chapters:
+        - rdm.qmd 
+        - dmp.qmd
+        - dmp-funded-projects.qmd
+        - ethics-review.qmd
+    - part: "PART 2: DISCOVER AND GENERATE"
+      chapters: 
+        - eui-data-portal.qmd
+        - secure-data-room.qmd
+        - third-party-data.qmd
+    - part: "PART 3: STORE AND ORGANISE"
+      chapters: 
+        - data-storage.qmd
+        - file-naming-folder-structure.qmd
+        - data-versioning.qmd
+        - documentation-and-metadata.qmd
+    - part: "PART 4: PROTECT AND SECURE"
+      chapters: 
+        - database-copyright.qmd
+        - processing-use-sensitive-data.qmd
+        - anonymisation-pseudonymisation.qmd
+        - qualitative-unstructured-data.qmd
+    - part: "PART 5: ANALYSE AND VISUALISE"
+      chapters: 
+        - data-analysis.qmd
+        - hpc.qmd
+        - data-visualisation.qmd
+    - part: "PART 6: ARCHIVE AND SHARE"
+      chapters: 
+        - selecting-data.qmd
+        - eui-research-repository.qmd
+        - other-publishing-routes.qmd
+        - data-citation.qmd
+    - references.qmd
+
+
+bibliography: references.bib
+
+format:
+  html:
+    cover-image: 
+    code-overflow: wrap
+    page-layout: full
+    toc-title: "On this page"
+    theme: [cosmo, eui-style.css]
+    grid:
+      sidebar-width: 300px
+  pdf:
+    documentclass: scrreprt
+
+
+

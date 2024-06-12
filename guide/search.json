@@ -1,0 +1,471 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Research Data Guide",
+    "section": "",
+    "text": "Welcome\nWelcome to the 12th edition of EUI Library Research Data Guide. This guide is intended as a one-stop-shop guide for all things research-data-related that may be useful to the EUI Academic Community.\nThis guide is curated bythe EUI Library as part of the portfolio of resources provided by the Research Data Services",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#availability-of-this-guide",
+    "href": "index.html#availability-of-this-guide",
+    "title": "Research Data Guide",
+    "section": "Availability of this guide",
+    "text": "Availability of this guide\nThe EUI Library Research Data Guide is released as an open project on GitHub so that the broader community can adapt and reuse it as needed. This guide is available in three different formats:\n\nWeb version (this website): \nPDF version (for offline consultation): \nGitHub repository (for contributing and reuse): https://github.com/EUI-Library/research-data-guide\n\nFor any question, comment or feedback please reach out to Simone Sacchi or create an issue on the Research Data Guide GitHub repository\n\n\n\n\n\n\nNote\n\n\n\nThe Research Data Guide is, and will always be, a free and open resource. This guide will be udated on a regular basis, but it also receives an official annual release number (we are now at the 12th edition) that consolidates all the updates and revisions issued throughout the year.",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "preface.html",
+    "href": "preface.html",
+    "title": "Preface",
+    "section": "",
+    "text": "Note on the 12th edition of the guide\nThe EUI Library Research Data Guide (12th edition) includes major changes with respect to the previous editions, in terms of structure, content and web publication. Building on the expertise developed by the EUI Library in the last decade, this edition aims to support improved navigation between the sections, additional resources to further explore each topic, and a finer-grained research data lifecycle.\nFor information about how this guide is built and published refer to its README.\nFor any questions, comments or feedback please reach out to Simone Sacchi EUI Research Data Librarian, or create an issue on the Research Data Guide GitHub repository",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "preface.html#note-on-the-previous-editions-of-this-guide",
+    "href": "preface.html#note-on-the-previous-editions-of-this-guide",
+    "title": "Preface",
+    "section": "Note on the previous editions of this guide",
+    "text": "Note on the previous editions of this guide\nAll previous editions of the EUI Library Research Data Guide were curated by Thomas Bourke, EUI Information Specialist for Economics and Social and Political Sciences, who provided invaluable expertise and support to the entire EUI Academic Community. Full acknowledgment and recognition are given to his excellent work.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "basic-concepts.html",
+    "href": "basic-concepts.html",
+    "title": "Basic concepts",
+    "section": "",
+    "text": "Research Data\nData can be quantitative or qualitative in nature and take the forms of tables, text, images, audio/video recordings, archival material and other sources or physical evidence.\nSimilar definitions are available online.[^longnote]",
+    "crumbs": [
+      "Basics of this guide",
+      "Basic concepts"
+    ]
+  },
+  {
+    "objectID": "basic-concepts.html#research-data",
+    "href": "basic-concepts.html#research-data",
+    "title": "Basic concepts",
+    "section": "",
+    "text": "Research data is all information intentionally collected, observed, or generated to validate research findings and substanciate scientific claims.1",
+    "crumbs": [
+      "Basics of this guide",
+      "Basic concepts"
+    ]
+  },
+  {
+    "objectID": "basic-concepts.html#research-data-lifecycle",
+    "href": "basic-concepts.html#research-data-lifecycle",
+    "title": "Basic concepts",
+    "section": "Research Data Lifecycle",
+    "text": "Research Data Lifecycle\n\n\n\n\n\n\nThe Research Data Lifecycle describes the different stages research data go through before, during, and after a research project. The research data lifecycle includes everything from planning how data will be collected, to publication, to long-term data preservation, to possible reuses of data.\n\n\n\nFor this quide we adopt the following Research Data Lifecycle model2:\n[add image here, adapted from RDMkit]",
+    "crumbs": [
+      "Basics of this guide",
+      "Basic concepts"
+    ]
+  },
+  {
+    "objectID": "basic-concepts.html#research-data-management-rdm",
+    "href": "basic-concepts.html#research-data-management-rdm",
+    "title": "Basic concepts",
+    "section": "Research Data Management (RDM)",
+    "text": "Research Data Management (RDM)\n\n\n\n\n\n\nResearch Data Management (RDM) is an umbrella term covering how you organise, structure, store, and care for the digital information generated or used during a research project.\n\n\n\nRDM practice usually includes:\n\nPlanning in advance how your data will be managed\nDocumenting working practices\nConsidering how information will be handled on a day-to-day basis\nMaking decisions on what happens to data in the long term – after the project concludes\nPreparing for data to be preserved\nConsidering whether the information may be reproducible3",
+    "crumbs": [
+      "Basics of this guide",
+      "Basic concepts"
+    ]
+  },
+  {
+    "objectID": "basic-concepts.html#footnotes",
+    "href": "basic-concepts.html#footnotes",
+    "title": "Basic concepts",
+    "section": "",
+    "text": "The European Commission, under their Q&A on Open Science requirements for funded projects defines research data as “the information (facts or numbers) collected to be examined and considered, and to serve as a basis for reasoning, discussion or calculation.” https://rea.ec.europa.eu/open-science_en↩︎\nModel adapted from RDMlit↩︎\nWe adopted the definition from Research Data Oxford https://researchdata.ox.ac.uk/about-data-management]↩︎",
+    "crumbs": [
+      "Basics of this guide",
+      "Basic concepts"
+    ]
+  },
+  {
+    "objectID": "how-to.html",
+    "href": "how-to.html",
+    "title": "How to use this guide",
+    "section": "",
+    "text": "What to expect in each chapter\nEach chapter of the guide strive to include:",
+    "crumbs": [
+      "Basics of this guide",
+      "How to use this guide"
+    ]
+  },
+  {
+    "objectID": "how-to.html#what-to-expect-in-each-chapter",
+    "href": "how-to.html#what-to-expect-in-each-chapter",
+    "title": "How to use this guide",
+    "section": "",
+    "text": "Practical guidance on the specific topic with examples\nDirect linking to available EUI resources, tools, and support\nelected open resources to support additional and more in-depth self-paced training",
+    "crumbs": [
+      "Basics of this guide",
+      "How to use this guide"
+    ]
+  },
+  {
+    "objectID": "how-to.html#how-to-seach-the-guide",
+    "href": "how-to.html#how-to-seach-the-guide",
+    "title": "How to use this guide",
+    "section": "How to seach the guide",
+    "text": "How to seach the guide\n\n\n\n\n\n\nTip\n\n\n\n\n\n\n\n\n\nUse the search tool in the sidebar to quickly find your topic of interest and recieve autosuggestions:",
+    "crumbs": [
+      "Basics of this guide",
+      "How to use this guide"
+    ]
+  },
+  {
+    "objectID": "rdm.html",
+    "href": "rdm.html",
+    "title": "Research Data Management",
+    "section": "",
+    "text": "Data should be carefully managed throughout the duration of the research project. Particular attention should be given to data input, quality control, dataset design, data protection, data security and backup during the project. At an early stage, scholars should define dataset structure, file structure and variable naming. Documentation and codebooks should be updated throughout the research project.\nThe following guides are useful for scholars working in the social sciences and humanities:\n\nCESSDA Data Management Expert Guide[^73]\nJISC Research Data Management Toolkit[^74]\nFinnish Social Science Data Archive Guide[^75]\nUKDS Prepare and Manage Data Guide.[^76]",
+    "crumbs": [
+      "PART 1: PLAN AND MANAGE",
+      "Research Data Management"
+    ]
+  },
+  {
+    "objectID": "dmp.html",
+    "href": "dmp.html",
+    "title": "Data Management Plan (DMP)",
+    "section": "",
+    "text": "Preparing a Data Management Plan (DMP)]\nEvery DMP is a unique document, grounded in the individual research project and it is the responsibility of the Principal Investigator (PI), or delegated person (e.g. the project manager, or member of the research team) to write and deliver a comprehensive, accurate and original data management plan.\nThe FAIR data principles - to make data findable, accessible, interoperable and reusable - must be considered during the preparation and revision of data management plans. Detailed information about these four principles is available in the grid below.\nThe following supporting materials should be consulted during the preparation of EUI DMPs:\nScholars preparing a data management plan for funded projects should also carefully follow the instructions provided by the relevant science programme office (eg. Horizon Europe, European Research Council etc.). Where a DMP template is provided, this must be used, for example:\nIt is important to update DMPs throughout the research project, incorporating new information about data collection, data generation, methodologies and relevant changes to the composition of the research team or consortium (for intenrational collaborative projects).",
+    "crumbs": [
+      "PART 1: PLAN AND MANAGE",
+      "Data Management Plan (DMP)"
+    ]
+  },
+  {
+    "objectID": "dmp.html#preparing-a-data-management-plan-dmp",
+    "href": "dmp.html#preparing-a-data-management-plan-dmp",
+    "title": "Data Management Plan (DMP)",
+    "section": "",
+    "text": "EUI Code of Ethics\nEUI ’Guide to Good Data Protection Practice in Research\nEUI Guidelines on Ethics and Integrity in Academic Research\nEUI Library Research Data Guide (this guide)\n\n\n\nHorizon Europe DMP template in the Horizon Europe Work Programme\nERC DMP template in the ERC Work Programme.\n\n\n\n\n\n\n\n\nTip\n\n\n\nThe EUI Library can provide feedback and guidance. Please, reach out to the Research Data Librarian",
+    "crumbs": [
+      "PART 1: PLAN AND MANAGE",
+      "Data Management Plan (DMP)"
+    ]
+  },
+  {
+    "objectID": "dmp.html#common-elements-of-a-dmp",
+    "href": "dmp.html#common-elements-of-a-dmp",
+    "title": "Data Management Plan (DMP)",
+    "section": "Common elements of a DMP",
+    "text": "Common elements of a DMP\nWhen preparing a DMP scholars can follow these prompts to address all core aspects:\n\n\n\n\n\n\nOverview of research project\n\n\n\n\nProvide an overview of the research project, indicating discipline/sub-discipline, inter-disciplinary scope, methodology and primary research questions\n\nList the types of data being collected, generated, processed and used.\n\n\n\n\n\n\n\n\n\nAnticipated data outputs and utility\n\n\n\n\nDescribe expected data outputs\nDistinguish (where applicable) between (i) in-project data which will not be shared and (ii) post-project research dataset outputs (public or embargoed)\n\nDescribe expected public utility; eg. for researchers,\npolicymakers, media organisations and the general public\nDescribe possible inter-disciplinary use\nDescribe data quality assurance processes.\n\n\n\n\n\n\n\n\n\nResources required for data collection, generation, processing and use\n\n\n\n\nProvide a detailed description of data collection, generation, processing and use\nDescribe anticipated technical and research assistance\nrequirements\nGive an overview of the data management responsibilities of\nresearch project leaders, team members and (where applicable) institutional partners.\n\n\n\n\n\n\n\n\n\nData security, infrastructure and protocols\n\n\n\n\nEUI members should write to the Data Security Officer to request the standard description of data security, infrastructure and protocols. This internal document describes layered physical and network security, authentication protocols and other elements for inclusion in data management plans.\n\n\n\n\n\n\n\n\n\nEthical considerations\n\n\n\n\nDescribe data protection measures in place to scrupulously guarantee that persons, families and households are not identifiable in any dataset outputs\nEUI Ethics Committee review may be required before the collection and processing of personal data. Ethics Committee approval cannot be granted retroactively. EUI members should initiate the request for Ethics Review before collecting data.\nConsultation with the EUI Data Protection Officer and/or Data Security Officer may be required (included in the Ethical Review).\nMaintain a record of pre-existing data resources used in the project, and comply with copyright provisions.\nContact the Research Data Librarian for assistance.",
+    "crumbs": [
+      "PART 1: PLAN AND MANAGE",
+      "Data Management Plan (DMP)"
+    ]
+  },
+  {
+    "objectID": "dmp.html#fair-principles-in-dmps",
+    "href": "dmp.html#fair-principles-in-dmps",
+    "title": "Data Management Plan (DMP)",
+    "section": "FAIR principles in DMPs",
+    "text": "FAIR principles in DMPs\nMost funding programmes, including ERC and other Horizon Europe schemes, have embraced the principles and practices of Open Science, fostering the approach that data should always be “as open as possible and as closed as necessary”.\nThe FAIR principles have been adopted as a guiding rubric in DMPs to ensure that research data are effectively Findable, Accessible, Interoperable and Reusable. The FAIR principles also shaped the most recent version of the DMP templates for ERC and Horizon Europe.\nHere following a few elements that Principal Investigators and Project Managers have to consider when addressing the FAIR principles in their DMP:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaking data Findable\n\n\n\n\nIdentify the repository where data outputs will be preserved and, where possible, made openly available; eg. the EUI research\nrepository, Cadmus.\nDescribe how folders, files, variables and versions will be\nconsistently named to aid discovery\nDatasets should be assigned accurate and consistent metadata to\naid findability and machine-retrievability (Section 6.c)\nDatasets should have persistent, unique digital object\nidentifiers (eg. handles generated by the EUI research\nrepository, Cadmus).\n\n\n\n\n\n\n\n\n\nMaking data Accessible\n\n\n\n\nDistinguish between in-project data which will remain closed (or will be destroyed) after the project; and data outputs which will be preserved and (where possible) openly shared after the project\nFor restricted data, give reasons for restricted status (eg.\npersonal data protection and/or database copyright compliance)\nFor restricted data the terms and conditions for access should be explicitly stated (even if these might be revised as the research progresses)\nFor sharable data, the status ‘open’ (accessible immediately) or ‘embargoed’ (accessible at a later date) should be assigned\nDescribe data protection and anonymisation measures in detail\nDescribe the software packages/tools required to use the data\nMetadata records are indexed in the EUI research repository,\nCadmus, which provides machine-readable metadata for indexing by search engines and application programming interfaces (eg. Google Scholar, OpenAIRE and CORE).\n\n\n\n\n\n\n\n\n\nMaking data Interoperable\n\n\n\n\nProvide details of any standard controlled vocabularies (ontologies, thesauri and taxonomies) from the relevant discipline (social sciences, humanities, ethnography &c.)\nVariable schemas should be readable by standard software packages to facilitate data interoperability\nStandard metadata and naming conventions should be used\nThe EUI research repository, Cadmus, uses web standards (the underlying DSpace software adopts standards for embedded micro-data and the OAI-PMH interoperability protocol) providing both human- and machine-readable interfaces to search, discover and access reposited data.\n\n\n\n\n\n\n\n\n\nMaking data Reusable\n\n\n\n\nOpen data generated by the research project should be made available under an open licence that clearly states reuse conditions - either the Creative Commons Attribution International license: CC-BY International[^49] or the Creative Commons Public Domain Universal license: CC0\nSupporting documentation and codebooks (PDF/A documents and ‘readme.txt’ files) should be reposited with the data to make the observations comprehensible and reusable by other scholars and stakeholders\nProvide information about any tools or instruments necessary to reuse or verify the data (software, algorithms, routines, models &c.)\nNote any data embargo period, where applicable.",
+    "crumbs": [
+      "PART 1: PLAN AND MANAGE",
+      "Data Management Plan (DMP)"
+    ]
+  },
+  {
+    "objectID": "dmp.html#data-management-planning-tools",
+    "href": "dmp.html#data-management-planning-tools",
+    "title": "Data Management Plan (DMP)",
+    "section": "Data management planning tools",
+    "text": "Data management planning tools\nOnline tools can be used to prepare structured data management plans - complying with EU Horizon Europe, European Research Council, and other science funder DMP requirements.\n\nDMPonline[^53] (maintained by the Digital Curation Centre) can be accessed via ‘Create Account’ at the upper right of the DMPonline homepage. For organisation enter ‘other’. Select the science funder's template. The principal investigator (P.I.) should be identified in the data management plan. For research teams, the P.I. can assign DMP sharing rights by entering colleagues’ email addresses and assigning the status of ‘co-owner’, ‘editor’ or ‘read only.’ Enter project details (title, abstract, &c.) and click on ‘Initial DMP’ in the top menu. Complete the sub-fields to generate the data management plan. A Word document can be generated. If the science funder provides a DMP template, the text generated in DMPonline can be transferred into the funder's template.\nThe Research Data Management Organiser (RDMO)[^54] is an online tool available in German and English to support research data management. RDMO is maintained by the Deutsche Forschungsgemeinschaft (DFG).\nArgos[^55] is an online DMP creation tool maintained by OpenAIRE. Create an account on the Argos platform, click ‘Launch Wizard’ and follow the step-by-step instructions.\nThe DMP Evaluation Rubric[^56] developed by Science Europe, provides core criteria which can be used by principal investigators and project managers to evaluate data management plans.\nFAIRsharing is a data support service of the Data Readiness Group and the Bodleian Library, University of Oxford, providing resources for data and metadata standards and research data management.[^57]\nThe F-UJI Automated Fair Data Assessment Tool[^58] maintained by the Fostering FAIR Data Practices In Europe project, helps scholars comply with the FAIR Guiding Principles for scientific data management that ensure data are - and remain - findable, accessible, interoperable and reusable (FAIR).\nFAIR-Aware[^59] maintained by the Data Archiving and Networked Services Institute is an online checklist tool to help researchers build compliance with the FAIR data principles.\nThe DMP Catalogue[^60] maintained by LIBER, provides examples of research data management plans.",
+    "crumbs": [
+      "PART 1: PLAN AND MANAGE",
+      "Data Management Plan (DMP)"
+    ]
+  },
+  {
+    "objectID": "dmp-funded-projects.html",
+    "href": "dmp-funded-projects.html",
+    "title": "DMPs and funded projects",
+    "section": "",
+    "text": "EUI research data guidelines and standards\nEUI members can cite these institutional guidelines in their data management plans:",
+    "crumbs": [
+      "PART 1: PLAN AND MANAGE",
+      "DMPs and funded projects"
+    ]
+  },
+  {
+    "objectID": "dmp-funded-projects.html#eui-research-data-guidelines-and-standards",
+    "href": "dmp-funded-projects.html#eui-research-data-guidelines-and-standards",
+    "title": "DMPs and funded projects",
+    "section": "",
+    "text": "EUI ‘Code of Ethics in Academic Research’\nEUI Library ‘Research Data Guide’",
+    "crumbs": [
+      "PART 1: PLAN AND MANAGE",
+      "DMPs and funded projects"
+    ]
+  },
+  {
+    "objectID": "dmp-funded-projects.html#footnotes",
+    "href": "dmp-funded-projects.html#footnotes",
+    "title": "DMPs and funded projects",
+    "section": "",
+    "text": "European Commission - Research and Innovation - Open Science https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/open-science_en↩︎",
+    "crumbs": [
+      "PART 1: PLAN AND MANAGE",
+      "DMPs and funded projects"
+    ]
+  },
+  {
+    "objectID": "ethics-review.html#footnotes",
+    "href": "ethics-review.html#footnotes",
+    "title": "Ethics review",
+    "section": "",
+    "text": "https://www.eui.eu/en/public/about/committees/ethics-committee↩︎",
+    "crumbs": [
+      "PART 1: PLAN AND MANAGE",
+      "Ethics review"
+    ]
+  },
+  {
+    "objectID": "eui-data-portal.html",
+    "href": "eui-data-portal.html",
+    "title": "EUI Data Portal",
+    "section": "",
+    "text": "Organization of the data resources\nBeside the full list, data resources indexed in the Data Portal are also organized according to the following categories:",
+    "crumbs": [
+      "PART 2: DISCOVER AND GENERATE",
+      "EUI Data Portal"
+    ]
+  },
+  {
+    "objectID": "eui-data-portal.html#organization-of-the-data-resources",
+    "href": "eui-data-portal.html#organization-of-the-data-resources",
+    "title": "EUI Data Portal",
+    "section": "",
+    "text": "Macroeconomic, Financial and Historical Data Resources for national, regional and global economic, political and historical research Read more\nMicro-socioeconomic Data Resources for household, family, individual and company-level research Read more\nEuropean, EU and Euro Area Data Resources providing statistics for research on pan-European topics, the European Union, European countries and European sub-state regions Read more\nData Topics Index for matching research themes with data resources Read more",
+    "crumbs": [
+      "PART 2: DISCOVER AND GENERATE",
+      "EUI Data Portal"
+    ]
+  },
+  {
+    "objectID": "eui-data-portal.html#how-to-access-the-data-resources",
+    "href": "eui-data-portal.html#how-to-access-the-data-resources",
+    "title": "EUI Data Portal",
+    "section": "How to access the data resources",
+    "text": "How to access the data resources\nDatabases indexed in the EUI Library Data Portal have diverse modes of access which are described on each resource page. The most common modes of access are:\n\nProxied internet: proxied internet access and authenticated internet access (mostly for macroeconomic, political economic and historical time series)\nDesktop application: (eg. Datastream via integration with Microsoft Excel, Compustat via intergration with Stata).\nEUI Library Secure Data Room (for EUI-hosted micro-socioeconomic data and other micro-data). See next section for details.\nIndividual end-user agreement (e.g. for Eurostat, AddHealth and G-SOEP data)",
+    "crumbs": [
+      "PART 2: DISCOVER AND GENERATE",
+      "EUI Data Portal"
+    ]
+  },
+  {
+    "objectID": "eui-data-portal.html#registration-for-access-to-eui-hosted-micro-socioeconomic-data",
+    "href": "eui-data-portal.html#registration-for-access-to-eui-hosted-micro-socioeconomic-data",
+    "title": "EUI Data Portal",
+    "section": "Registration for access to EUI-hosted micro-socioeconomic data",
+    "text": "Registration for access to EUI-hosted micro-socioeconomic data\nEUI active members can register for access to micro data hosted by the EUI Library as follows:\n\nComplete the micro-socioeconomic data registration form (selecting the required dataset from the drop-down menu)\nFor some providers, parallel registration with data issuers is required\nRegistered users are given access to the Library’s restricted data server\nSpecific instructions are provided under “How to access”on the individual micro data resource pages linked from the Data Portal\n\n\n\n\n\n\n\nWarning\n\n\n\n\nDue to licensing restrictions, most data resources are restricted to EUI active members.\nShort-term EUI visitors (external visitors) do not have access to EUI-hosted micro data.\nInquiry can be sent to resdata@eui.eu",
+    "crumbs": [
+      "PART 2: DISCOVER AND GENERATE",
+      "EUI Data Portal"
+    ]
+  },
+  {
+    "objectID": "eui-data-portal.html#terms-and-conditions-of-use-and-database-copyright",
+    "href": "eui-data-portal.html#terms-and-conditions-of-use-and-database-copyright",
+    "title": "EUI Data Portal",
+    "section": "Terms and conditions of use and database copyright",
+    "text": "Terms and conditions of use and database copyright\nAccess to, and use of, databases provided by the EUI Library are subject to contractual license agreements and database copyright terms. Full details are on the Library’s Terms and Conditions’ web page.\nData users are individually responsible for compliance with terms and conditions of access and use. Violation of license terms puts at risk other EUI members’ future access to data resources and may expose the university to financial penalties. EUI users may not distribute, or allow any other party to have access to data which is provided under license.\n\n\n\n\n\n\nImportant\n\n\n\nUsers may not use licensed materials for commercial purposes.\n\n\nIn some cases, the sharing of micro-socioeconomic data with journal referees is not permitted (check individual data contracts for details).",
+    "crumbs": [
+      "PART 2: DISCOVER AND GENERATE",
+      "EUI Data Portal"
+    ]
+  },
+  {
+    "objectID": "secure-data-room.html",
+    "href": "secure-data-room.html",
+    "title": "Secure Data Room",
+    "section": "",
+    "text": "Request access to the Secure Data Room\nTo request access and use of the EUI Library Secire Data Room, scholars should send a copy of their data access contracts to resdata@eui.eu and provide the following information:",
+    "crumbs": [
+      "PART 2: DISCOVER AND GENERATE",
+      "Secure Data Room"
+    ]
+  },
+  {
+    "objectID": "secure-data-room.html#request-access-to-the-secure-data-room",
+    "href": "secure-data-room.html#request-access-to-the-secure-data-room",
+    "title": "Secure Data Room",
+    "section": "",
+    "text": "Name of data issuer/publisher\nTitle of dataset, with internet link (if available)\nNames of research team members (EUI and external), with email contacts\nWhat special conditions are required for access to the data (eg. remote protocol)?\nWhat special conditions are required for use of the data?\nDoes the data issuer require a contract counter-signature from the EUI Data Protection Officer?\nDoes the data issuer require that the data be used in a secure data room?\nDoes the data issuer require that the data be used on a stand-alone, off-line computer?\nFor projects with non-EUI collaborators: What controller/processing operations will be undertaken by research partners?",
+    "crumbs": [
+      "PART 2: DISCOVER AND GENERATE",
+      "Secure Data Room"
+    ]
+  },
+  {
+    "objectID": "secure-data-room.html#how-to-use-the-secure-data-room",
+    "href": "secure-data-room.html#how-to-use-the-secure-data-room",
+    "title": "Secure Data Room",
+    "section": "How to use the Secure Data Room",
+    "text": "How to use the Secure Data Room\n\nThe Secure Data Room, BF-173, is located on the upper floor of the Library, Badia Fiesolana.\nThe names of scholars who are authorised to access the Secure Data Room are indicated on the door label. Only the users listed, and Library staff, can access the Room.\nAuthorized scholars can request the key to the room at the EUI Library information desk at the Library entance in the Vasgo De Gama room. The key must be returned to the Loan Desk after the user session.\nAuthorised users can use a computer (Monday to Saturday) in workspaces #1, #2 or #6. (Workspaces #3, and #4 are reserved for specific datasets workspace #5 is for use of authorized laptops).\nScholars are co-responsible for keeping the space accessible to authorised users only. Only those EUI members listed on the door label can access the Secure Data Room.",
+    "crumbs": [
+      "PART 2: DISCOVER AND GENERATE",
+      "Secure Data Room"
+    ]
+  },
+  {
+    "objectID": "secure-data-room.html#workspaces-in-the-secure-data-room",
+    "href": "secure-data-room.html#workspaces-in-the-secure-data-room",
+    "title": "Secure Data Room",
+    "section": "Workspaces in the Secure Data Room",
+    "text": "Workspaces in the Secure Data Room\n\nWorkspaces #1, #2 or #6 can be used on a first-come first-serve modality\nWorkspaces #3 and #4 are reserved for specific datasets.\nWorkspace #5 can be utilized for authorised laptop use.\n\n\n\n\n\n\n\nNote\n\n\n\n\nSome data providers require EUI Ethics Committee approval and/or DPO oversight. The Principal Investigator should initiate the request.\nIf required by the data issuer, the ICT Data Security Officer can provide a description of ICT security protocols and infrastructure: Data_Security_Officer@eui.eu",
+    "crumbs": [
+      "PART 2: DISCOVER AND GENERATE",
+      "Secure Data Room"
+    ]
+  },
+  {
+    "objectID": "third-party-data.html",
+    "href": "third-party-data.html",
+    "title": "Third party data",
+    "section": "",
+    "text": "Access to restricted data at other institutions\nEUI members who require access to restricted data at another institution (data centre, statistics agency, university, archive) should apply for access early in their research projects because application periods can be lengthy.\nThe Library can help with the formal steps of the process, in particular when the agreement requires the signature of an official EUI legal signatory.\nIn some instances, it may be possible for EUI members to obtain access via library consortia.",
+    "crumbs": [
+      "PART 2: DISCOVER AND GENERATE",
+      "Third party data"
+    ]
+  },
+  {
+    "objectID": "third-party-data.html#access-to-restricted-data-at-other-institutions",
+    "href": "third-party-data.html#access-to-restricted-data-at-other-institutions",
+    "title": "Third party data",
+    "section": "",
+    "text": "Caution\n\n\n\nSome sociological, qualitative and micro geo-coded data can only be accessed at issuers’ secure on-site facilities.",
+    "crumbs": [
+      "PART 2: DISCOVER AND GENERATE",
+      "Third party data"
+    ]
+  },
+  {
+    "objectID": "third-party-data.html#access-to-open-data",
+    "href": "third-party-data.html#access-to-open-data",
+    "title": "Third party data",
+    "section": "Access to open data",
+    "text": "Access to open data\nScholars, government agencies and international organisations increasingly share data, codebooks and software online through repositories or dedicated websites.\nOpen research data can be located with dedicated tools and registries:\n\nGoogle Dataset Search | Developed by Google Research, read more on this blog post\nre3data | the Registry of Research Data Repositories which is indexed by discipline, sub-discipline, data type and host institution.",
+    "crumbs": [
+      "PART 2: DISCOVER AND GENERATE",
+      "Third party data"
+    ]
+  },
+  {
+    "objectID": "data-storage.html",
+    "href": "data-storage.html",
+    "title": "Data storage",
+    "section": "",
+    "text": "During research projects it is important to keep data secure at all times.\nThe EUI ICT Service provides state-of-the-art solutions to ensure that research data are safely stored and backed up.\nFour different solutions are available and can be chosen upon needs:\n\nNetwork areas storage (so called G:, H:, W: and S: drives): This storage is based on network areas, known usually as G:, H:, W: and S: drives, which are hosted on servers of EUI’s local IT infrastructure (IT intranet) for easy access from any EUI desktop PC. They can be accessed from Service laptops or personally-owned computers too and are backup regularly.\nMicrosoft OneDrive for Business: OneDrive for Business is EUI’s corporate cloud storage and is part of Microsoft’s Office 365 family. It is a valid alternative to one’s personal G: drive as it allows easy access anytime, anywhere (including on mobile devices) via free app or directly online via web.\nMicrosoft SharePoint: Microsoft SharePoint is the corporate, cloud-based sharing platform included in the Office 365 suite. It allows for efficient file sharing amongst EUI members as well as external collaborators and is therefore ideal for a mixed community found for example in research projects.\nMicrosoft Teams: Microsoft Teams is a powerful, cloud-based all-in-one collaboration and communication tool, part of Microsoft Office 365. Participants in a Team can be either EUI members only or a mix of EUI members and external users, with the idea that all share the same (access) rights. Amongst a wide range of collaboration tools (chat, meetings, desktop sharing, third-party apps, etc.), Teams offers a file storage (and sharing) platform which is based on SharePoint (see above) for easy integration with existing SharePoint sites.\n\n\n\n\n\n\n\nTip\n\n\n\nWe strongly advise to adopt more than one solution at the same time, following 3-2-1 backup rule\n\n\nmaintains a strong password policy to prevent the loss, exposure, or corruption of sensitive information.[^77] The ICT Service advises that the personal G:\\ network drive “should always be used to store work-related data.”[^78] The drive is backed up by the ICT Service. Full details about EUI drive quotas are provided by the ICT Service.[^79] (EUI members also have a personal C:\\ drive for storing non-work related data (photos &c.) which is not backed up.) The EUI protects computing devices by applying patches, and computers are protected by anti-malware solutions which are updated regularly to prevent malware infections.",
+    "crumbs": [
+      "PART 3: STORE AND ORGANISE",
+      "Data storage"
+    ]
+  },
+  {
+    "objectID": "file-naming-folder-structure.html",
+    "href": "file-naming-folder-structure.html",
+    "title": "Files and folders",
+    "section": "",
+    "text": "File naming\nThere are two essential starting points for your file naming strategy:",
+    "crumbs": [
+      "PART 3: STORE AND ORGANISE",
+      "Files and folders"
+    ]
+  },
+  {
+    "objectID": "file-naming-folder-structure.html#file-naming",
+    "href": "file-naming-folder-structure.html#file-naming",
+    "title": "Files and folders",
+    "section": "",
+    "text": "A file name is a principal identifier of a file\nFile naming strategy should be consistent in time and among people in a research team\n\n\n\n\n\n\n\nElements in a file name\n\n\n\nAccording to the CESSDA Data Management Expert Guide, you should consider the following elements when developing a file naming strategy:\n\nVersion number;\nDate of creation (date format should be YYYY-MM-DD);\nName of creator;\nDescription of content;\nName of research team/department associated with the data;\nPublication date;\nProject number.\n\n\n\n\n\n\n\n\n\nBest practice\n\n\n\nThe CESSDA Data Management Expert Guide suggests also that best practice in naming files is to:\n\nCreate meaningful but brief names;\nUse file names to classify types of files;\nAvoid using spaces, dots and special characters (& or ? or !);\nUse hyphens (-) or underscores (_) to separate elements in a file name;\nAvoid very long file names;\nReserve the 3-letter file extension for application-specific codes of file format (e.g. .doc, .xls, .mov, .tif);\nInclude versioning of file names where appropriate.",
+    "crumbs": [
+      "PART 3: STORE AND ORGANISE",
+      "Files and folders"
+    ]
+  },
+  {
+    "objectID": "file-naming-folder-structure.html#folder-structure",
+    "href": "file-naming-folder-structure.html#folder-structure",
+    "title": "Files and folders",
+    "section": "Folder structure",
+    "text": "Folder structure\nThe folder structure of research datasets (eg. hierarchical / horizontal) should be considered early in the project.\nQualitative datasets containing text, interviews, images &c. may require individual files for every element.\nVersioning systems can be used to track changes to data andcode, eg. the GIT (global information tracker) version control resource.[^81]\nThe software format of the dataset should facilitate flexible use of the data. Scholars using one format during a research project, may consider a different format for preservation - taking into consideration open source accessibility. To avoid future file obsolescence, it is best to avoid proprietary formats, where possible. For example .rtf instead of .doc/.docx; .tif instead of .jpg; .flac instead of .mp3 &c. Details of how to submit dataset outputs to the EUI research repository, Cadmus, are in Section 6 below.",
+    "crumbs": [
+      "PART 3: STORE AND ORGANISE",
+      "Files and folders"
+    ]
+  },
+  {
+    "objectID": "documentation-and-metadata.html",
+    "href": "documentation-and-metadata.html",
+    "title": "Data documentation",
+    "section": "",
+    "text": "Clear and accurate documentation should be provided about the purpose, context and methodology of the research project and the data outputs. Good documentation helps make datasets findable, accessible, interoperable and re-usable (FAIR principles). Documentation should include a detailed description of the dataset, providing information about structure, folders, files, variables and versioning. Information about definitions, variable names, problematic values, missing observations and weightings should be included. A concise note on methodology should be provided, along with information on how and when the data was collected or generated, and elaboration techniques (sub-setting, combining &c.). At the end of the research project, codebooks, questionnaires and data dictionaries should be reposited with the data.",
+    "crumbs": [
+      "PART 3: STORE AND ORGANISE",
+      "Data documentation"
+    ]
+  },
+  {
+    "objectID": "database-copyright.html",
+    "href": "database-copyright.html",
+    "title": "Database copyright",
+    "section": "",
+    "text": "Access to, and use of, databases provided by the EUI Library are subject to contractual license agreements and database copyright terms. Full details are on the Library’s Terms and Conditions’ web page.\nData users are individually responsible for compliance with terms and conditions of access and use. Violation of license terms puts at risk other EUI members’ future access to data resources and may expose the university to financial penalties. EUI users may not distribute, or allow any other party to have access to data which is provided under license.\nUsers may not use licensed materials for commercial purposes.\nIn some cases, the sharing of micro-socioeconomic data with journal referees is not permitted (check individual data contracts for details).",
+    "crumbs": [
+      "PART 4: PROTECT AND SECURE",
+      "Database copyright"
+    ]
+  },
+  {
+    "objectID": "qualitative-unstructured-data.html",
+    "href": "qualitative-unstructured-data.html",
+    "title": "Qualitative and unstructured data",
+    "section": "",
+    "text": "Protection and ethical use of qualitative data\nScholars generating, accessing, processing and sharing qualitative data should pay particular attention to the data protection and ethical use provisions described in the EUI ‘Guide to Good Data Protection Practice in Research’.[^105] Scholars are subject to data protection legislation when collecting, generating, processing, using and storing personal data. The processing of sensitive data relating to health, racial/ethnic origin, religious beliefs, political opinions, genetic/biometric observations, sexual orientation, memberships &c. may require EUI Ethics Committee clearance before data collection and processing begins.[^106] Ethics Committee approval cannot be sought retroactively. The Ethics Committee review can take up to six weeks. Principal investigators should consult the online Initial Checklist and the supporting documentation on the EUI information page for Ethics and Integrity in Academic Research.[^107] When collecting, processing, using and storing personal data, scholars are responsible for obtaining and documenting the informed consent of subjects. The EUI sample consent form can be used.[^108] Throughout the research data lifecycle, scholars are responsible for preserving the confidentiality of data observations pertaining to human subjects, families and households. Anonymisation and pseudonymisation techniques are described at Section 2.d above. Software such as the open source QualiAnon anonymisation tool can be used for the anonymisation and redaction of interview transcripts.[^109]\nScholars who intend to generate images, videos or photocopies of materials and objects in museums and archives, should seek the rights owners’ permission in advance. Scholars who wish to reproduce pre-existing images or multimedia of such materials (eg. photographs in catalogues raisonne) should seek copyright clearance before reproducing.\nBraukmann, R., Verburg, M., & Mahabier, W. (2024). Guidebook - Depositing Restricted Access In The DANS Data Stations (1.0). Zenodo. https://doi.org/10.5281/zenodo.10887484",
+    "crumbs": [
+      "PART 4: PROTECT AND SECURE",
+      "Qualitative and unstructured data"
+    ]
+  },
+  {
+    "objectID": "hpc.html",
+    "href": "hpc.html",
+    "title": "High Performance Computing (HPC)",
+    "section": "",
+    "text": "Research Software, Serial Compilers and Programming Languages\nThe following Research Software, Serial Compilers and Programming Languages are available within the HPC cluster environment:",
+    "crumbs": [
+      "PART 5: ANALYSE AND VISUALISE",
+      "High Performance Computing (HPC)"
+    ]
+  },
+  {
+    "objectID": "hpc.html#research-software-serial-compilers-and-programming-languages",
+    "href": "hpc.html#research-software-serial-compilers-and-programming-languages",
+    "title": "High Performance Computing (HPC)",
+    "section": "",
+    "text": "MatLab R2022a\nStata 17 MP\nR 4.1.2\nJulia 1.7.3\nGCC\nGC++\nFortran\n\n\n\n\n\n\n\nNote\n\n\n\nAdditional information on the HPC service is avaialble on the related EUI ICT webpage.",
+    "crumbs": [
+      "PART 5: ANALYSE AND VISUALISE",
+      "High Performance Computing (HPC)"
+    ]
+  }
+]

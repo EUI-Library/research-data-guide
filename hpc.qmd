@@ -1,0 +1,21 @@
+# High Performance Computing (HPC) {.unnumbered}
+
+The EUI ICT Service manages a High Performance Computing (HPC), available to all EUI members in order to run jobs in [parallel mode](link). 
+
+To be able to access the EUI Cluster, you need first to request an account via [EUI Helpdesk](https://www.eui.eu/Helpdesk), including both your campus affiliation and a brief statement of your research interests for using the HPC cluster.
+
+## Research Software, Serial Compilers and Programming Languages
+
+The following Research Software, Serial Compilers and Programming Languages are available within the HPC cluster environment:
+
+- MatLab R2022a
+- Stata 17 MP
+- R 4.1.2
+- Julia 1.7.3
+- GCC
+- GC++
+- Fortran
+
+::: {.callout-note}
+Additional information on the HPC service is avaialble on the related [EUI ICT webpage](https://www.eui.eu/ServicesAndAdmin/ComputingService/ParallelComputing).
+:::

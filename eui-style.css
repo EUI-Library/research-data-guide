@@ -1,0 +1,32 @@
+/*-- scss:defaults --*/
+$h2-font-size:          1.6rem !default;
+$headings-font-weight:  300 !default;
+
+/*-- scss:rules --*/
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 400;
+}
+
+h1.title, .title.h1 {
+  margin-top: 0;
+  font-size: 3.5rem;
+}
+
+.quarto-sidebar .sidebar-title {
+    background-image: url(https://www.eui.eu/web-production/code/assets/img/logo-eui.svg);
+    background-size: 300px;
+    background-position: left;
+    background-repeat: no-repeat;
+    padding-left: 10px;
+    background-origin: content-box;
+  }
+
+  a.sidebar-item-text.sidebar-link.active {
+    font-weight:bolder;
+  }
+
+  li.sidebar-item.sidebar-item-section > div.sidebar-item-container {
+    font-weight: 600;
+  }
+
+  

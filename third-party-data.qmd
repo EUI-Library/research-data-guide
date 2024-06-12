@@ -1,0 +1,22 @@
+# Third party data {.unnumbered}
+
+## Access to restricted data at other institutions
+EUI members who require access to restricted data at another institution (data centre, statistics agency, university, archive) should apply for access early in their research projects because application periods can be lengthy. 
+
+The Library can help with the formal steps of the process, in particular when the agreement requires the signature of an official EUI legal signatory.
+
+In some instances, it may be possible for EUI members to obtain access via library consortia. 
+
+::: {.callout-caution}
+Some sociological, qualitative and micro geo-coded data can only be accessed at issuers' secure on-site facilities.
+::: 
+
+
+## Access to open data 
+
+Scholars, government agencies and international organisations increasingly share data, codebooks and software online through repositories or dedicated websites. 
+
+Open research data can be located with dedicated tools and registries:
+
+- [**Google Dataset Search**](https://datasetsearch.research.google.com/) | Developed by Google Research, read more on this [blog post](https://research.google/blog/datasets-at-your-fingertips-in-google-search/)
+- [**re3data**](https://www.re3data.org/) | the Registry of Research Data Repositories which is indexed by discipline, sub-discipline, data type and host institution.

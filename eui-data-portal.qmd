@@ -1,0 +1,70 @@
+# EUI Data Portal {.unnumbered}
+
+When in need of data for your research project, the EUI Library can support all the members of the EUI academic community with tool to discover existing datasets.
+
+The EUI Library maintains a [**Data Portal**](https://www.eui.eu/Research/Library/ResearchGuides/Economics/Statistics/DataPortal) providing access to (currently) 78 resources focused on the EUI core research areas: **Ecomomics**, **History**, **Law**, and **Social and Politica Sciences**.
+
+Each resource is complemented with the following information:
+
+- data description and scope 
+- time-period coverage and release/wave information 
+- supporting resources (online manuals, software transfer routines, user networks) 
+- terms and conditions of access and use.
+- modes of access to each individual resource.
+
+Modes of access for each database are described in the individual resource guides linked from the Data Portal. 
+
+## Organization of the data resources
+
+Beside the [full list](link), data resources indexed in the Data Portal are also organized according to the following categories:
+
+- **Macroeconomic, Financial and Historical Data Resources** for national, regional and global economic, political and historical research [Read more](https://www.eui.eu/Research/Library/ResearchGuides/Economics/Statistics/MacroDataSet)
+
+- **Micro-socioeconomic Data Resources** for household, family, individual and company-level research [Read more](https://www.eui.eu/Research/Library/ResearchGuides/Economics/Statistics/MicroDataSet)
+
+- **European, EU and Euro Area Data Resources** providing statistics for research on pan-European topics, the European Union, European countries and European sub-state regions [Read more](https://www.eui.eu/Research/Library/ResearchGuides/Economics/EuropeanEUandEurozoneStatistics)
+
+- **Data Topics Index** for matching research themes with data
+    resources [Read more](https://www.eui.eu/Research/Library/ResearchGuides/Economics/Statistics/DataPortal/Topics)
+
+## How to access the data resources
+
+Databases indexed in the EUI Library Data Portal have diverse modes of access which are described on each resource page. The most common modes of access are:
+
+- **Proxied internet**: proxied internet access and authenticated internet access (mostly for macroeconomic, political economic and historical time series)
+
+- **Desktop application**: (eg. Datastream via integration with Microsoft Excel, Compustat via intergration with Stata).
+
+- **EUI Library Secure Data Room** (for EUI-hosted micro-socioeconomic data and other micro-data). See next section for details.
+
+- **Individual end-user agreement** (e.g. for Eurostat, AddHealth and G-SOEP data)
+
+## Registration for access to EUI-hosted micro-socioeconomic data
+
+EUI active members can register for access to micro data hosted by the EUI Library as follows:
+
+- Complete the micro-socioeconomic data [registration form](https://www.eui.eu/Research/Library/RequestForms/Register-micro-data) (selecting the required dataset from the drop-down menu)
+
+- For some providers, parallel registration with data issuers is required
+
+- Registered users are given access to the Library's restricted data server
+
+-  Specific instructions are provided under "How to access"on the individual micro data resource pages linked from the [Data Portal](https://www.eui.eu/Research/Library/ResearchGuides/Economics/Statistics/DataPortal)
+
+::: {.callout-warning}
+- Due to licensing restrictions, most data resources are restricted to EUI active members. 
+- Short-term EUI visitors (external visitors) do not have access to EUI-hosted micro data.
+- Inquiry can be sent to [resdata@eui.eu](mailto:resdata@eui.eu)
+:::
+
+## Terms and conditions of use and database copyright
+
+Access to, and use of, databases provided by the EUI Library are subject to contractual license agreements and database copyright terms. Full details are on the [Library's Terms and Conditions' web page](https://www.eui.eu/Research/Library/Collections/TermsAndConditions).
+
+Data users are individually responsible for compliance with terms and conditions of access and use. Violation of license terms puts at risk other EUI members' future access to data resources and may expose the university to financial penalties. EUI users may not distribute, or allow any other party to have access to data which is provided under license. 
+
+::: {.callout-important}
+Users may not use licensed materials for commercial purposes.
+:::
+
+In some cases, the sharing of micro-socioeconomic data with journal referees is not permitted (check individual data contracts for details).

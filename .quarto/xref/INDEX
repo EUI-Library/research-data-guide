@@ -1,0 +1,83 @@
+{
+  "index.qmd": {
+    "index.html": "7992ea66"
+  },
+  "preface.qmd": {
+    "preface.html": "6a04cdfc"
+  },
+  "basic-concepts.qmd": {
+    "basic-concepts.html": "724f52d9"
+  },
+  "how-to.qmd": {
+    "how-to.html": "b9c16fc7"
+  },
+  "dmp.qmd": {
+    "dmp.html": "3f4dc26d"
+  },
+  "dmp-funded-projects.qmd": {
+    "dmp-funded-projects.html": "a54df34a"
+  },
+  "ethics-review.qmd": {
+    "ethics-review.html": "fd5deced"
+  },
+  "eui-data-portal.qmd": {
+    "eui-data-portal.html": "0a2983fd"
+  },
+  "secure-data-room.qmd": {
+    "secure-data-room.html": "4ba6196e"
+  },
+  "third-party-data.qmd": {
+    "third-party-data.html": "02f4813f"
+  },
+  "data-storage.qmd": {
+    "data-storage.html": "4f733ef8"
+  },
+  "file-naming-folder-structure.qmd": {
+    "file-naming-folder-structure.html": "6e91f78e"
+  },
+  "data-versioning.qmd": {
+    "data-versioning.html": "bc83f66a"
+  },
+  "documentation-and-metadata.qmd": {
+    "documentation-and-metadata.html": "80d1c5bd"
+  },
+  "database-copyright.qmd": {
+    "database-copyright.html": "aed5ec32"
+  },
+  "processing-use-sensitive-data.qmd": {
+    "processing-use-sensitive-data.html": "f1b7b59e"
+  },
+  "anonymisation-pseudonymisation.qmd": {
+    "anonymisation-pseudonymisation.html": "38d35d1f"
+  },
+  "qualitative-unstructured-data.qmd": {
+    "qualitative-unstructured-data.html": "7103c185"
+  },
+  "data-analysis.qmd": {
+    "data-analysis.html": "e581ab38"
+  },
+  "hpc.qmd": {
+    "hpc.html": "b949fbf3"
+  },
+  "data-visualisation.qmd": {
+    "data-visualisation.html": "f82edea4"
+  },
+  "selecting-data.qmd": {
+    "selecting-data.html": "7193ec8d"
+  },
+  "eui-research-repository.qmd": {
+    "eui-research-repository.html": "08f2bbd5"
+  },
+  "other-publishing-routes.qmd": {
+    "other-publishing-routes.html": "4eac8ac5"
+  },
+  "data-citation.qmd": {
+    "data-citation.html": "5d9d17ec"
+  },
+  "references.qmd": {
+    "references.html": "07c0b407"
+  },
+  "rdm.qmd": {
+    "rdm.html": "e9e6c8ee"
+  }
+}

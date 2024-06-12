@@ -1,0 +1,23 @@
+# Data storage {.unnumbered}
+
+**During research projects it is important to keep data secure at all times.** 
+
+The [EUI ICT Service](https://www.eui.eu/en/services/ict-service) provides state-of-the-art solutions to ensure that research data are safely stored and backed up. 
+
+Four different solutions are available and can be chosen upon needs:
+
+- [**Network areas storage (so called G:, H:, W: and S: drives)**](https://www.eui.eu/ServicesAndAdmin/ComputingService/Storage){target="_blank"}: This storage is based on network areas, known usually as G:, H:, W: and S: drives, which are hosted on servers of EUI's local IT infrastructure (IT intranet) for easy access from any EUI desktop PC. They can be accessed from Service laptops or personally-owned computers too and are backup regularly.
+
+- [**Microsoft OneDrive for Business**](https://www.eui.eu/ServicesAndAdmin/ComputingService/Storage){target="_blank"}: OneDrive for Business is EUI's corporate cloud storage and is part of Microsoft's Office 365 family. It is a valid alternative to one's personal G: drive as it allows easy access anytime, anywhere (including on mobile devices) via free app or directly online via web.
+
+- [**Microsoft SharePoint**](https://www.eui.eu/ServicesAndAdmin/ComputingService/Storage){target="_blank"}: Microsoft SharePoint is the corporate, cloud-based sharing platform included in the Office 365 suite. It allows for efficient file sharing amongst EUI members as well as external collaborators and is therefore ideal for a mixed community found for example in research projects.
+
+- [**Microsoft Teams**](hhttps://www.eui.eu/ServicesAndAdmin/ComputingService/Storage){target="_blank"}: Microsoft Teams is a powerful, cloud-based all-in-one collaboration and communication tool, part of Microsoft Office 365. Participants in a Team can be either EUI members only or a mix of EUI members and external users, with the idea that all share the same (access) rights.
+Amongst a wide range of collaboration tools (chat, meetings, desktop sharing, third-party apps, etc.), Teams offers a file storage (and sharing) platform which is based on SharePoint (see above) for easy integration with existing SharePoint sites.
+
+::: {.callout-tip}
+We strongly advise to adopt more than one solution at the same time, following [3-2-1 backup rule](https://www.eui.eu/ServicesAndAdmin/ComputingService/Storage/SafeguardingYourData){target="_blank"}
+:::
+
+maintains a strong password policy to prevent the loss, exposure, or corruption of sensitive information.[^77] The ICT Service advises that the personal G:\\ network drive "should always be used to store work-related data."[^78] The drive is backed up by the ICT Service. Full details about EUI drive quotas are provided by the ICT Service.[^79] (EUI members also have a personal C:\\ drive for storing non-work related data (photos &c.) which is not backed up.) The EUI protects computing devices by applying patches, and
+computers are protected by anti-malware solutions which are updated regularly to prevent malware infections.

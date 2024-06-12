@@ -1,0 +1,23 @@
+# How to use this guide {.unnumbered}
+
+The **EUI Research Data Guide** is intended as a reference resource (i.e. not intended to be read linearly, beginnig to the end) but all chapters link to one another to provide a comprehensive perspective on the data services and support provided by the EUI.
+
+Here some tips for you make the best out of this guide.
+
+## What to expect in each chapter
+
+Each chapter of the guide strive to include:
+
+- **Practical guidance** on the specific topic with examples
+- Direct linking to **available EUI resources, tools, and support**
+- elected **open resources** to support additional and more in-depth self-paced training
+
+## How to seach the guide
+
+::: {.callout-tip}
+::: {layout-ncol=2}
+Use the **search tool** in the sidebar to quickly find your topic of interest and recieve autosuggestions:
+
+![](images/search-tool.png){.lightbox fig-align="right"}
+:::
+:::

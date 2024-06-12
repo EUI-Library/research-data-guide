@@ -1,0 +1,9 @@
+# Database copyright {.unnumbered}
+
+Access to, and use of, databases provided by the EUI Library are subject to contractual license agreements and database copyright terms. Full details are on the [Library's Terms and Conditions](https://www.eui.eu/Research/Library/Collections/TermsAndConditions)' web page.
+
+Data users are individually responsible for compliance with terms and conditions of access and use. Violation of license terms puts at risk other EUI members' future access to data resources and may expose the university to financial penalties. EUI users may not distribute, or allow any other party to have access to data which is provided under license. 
+
+Users may not use licensed materials for commercial purposes.
+
+In some cases, the sharing of micro-socioeconomic data with journal referees is not permitted (check individual data contracts for details).

@@ -1,0 +1,56 @@
+# Files and folders {.unnumbered}
+
+**The design of research datasets should be carefully considered at the outset of the project.**
+
+Dataset design varies by discipline, types of data and variables, medium of data, units of analysis, methodology, relationship between data elements, and whether or not the dataset is part of a series. 
+
+However, **clear and consistent naming for folders, files, and variables**, should be a strategy across all disciplines.
+
+It also helps making research data findable, accessible, interoperable and re-usable ([FAIR principles](/fair-data-principles.qmd)).
+
+## File naming
+
+There are two essential starting points for your file naming strategy:
+
+- A file name is a principal identifier of a file
+- File naming strategy should be consistent in time and among  people in a research team
+
+::: {.callout-tip}
+### Elements in a file name
+
+According to the [CESSDA Data Management Expert Guide](https://dmeg.cessda.eu/Data-Management-Expert-Guide/2.-Organise-Document/File-naming-and-folder-structure), you should consider the following elements when developing a file naming strategy:
+
+- Version number;
+- Date of creation (date format should be YYYY-MM-DD);
+- Name of creator;
+- Description of content;
+- Name of research team/department associated with the data;
+- Publication date;
+- Project number.
+
+:::
+
+::: {.callout-tip}
+### Best practice
+
+The [CESSDA Data Management Expert Guide](https://dmeg.cessda.eu/Data-Management-Expert-Guide/2.-Organise-Document/File-naming-and-folder-structure) suggests also that best practice in naming files is to:
+
+- Create meaningful but brief names;
+- Use file names to classify types of files;
+- Avoid using spaces, dots and special characters (& or ? or !);
+- Use hyphens (-) or underscores (_) to separate elements in a file name;
+- Avoid very long file names;
+- Reserve the 3-letter file extension for application-specific codes of file format (e.g. .doc, .xls, .mov, .tif);
+- Include versioning of file names where appropriate.
+:::
+
+## Folder structure
+
+The folder structure of research datasets (eg. hierarchical / horizontal) should be considered early in the project. 
+
+Qualitative datasets containing text, interviews, images &c. may require individual files for every element. 
+
+
+Versioning systems can be used to track changes to data andcode, eg. the GIT (global information tracker) version control resource.[^81]
+
+The software format of the dataset should facilitate flexible use of the data. Scholars using one format during a research project, may consider a different format for preservation - taking into consideration open source accessibility. To avoid future file obsolescence, it is best to avoid proprietary formats, where possible. For example .rtf instead of .doc/.docx; .tif instead of .jpg; .flac instead of .mp3 &c. Details of how to submit dataset outputs to the EUI research repository, Cadmus, are in Section 6 below.

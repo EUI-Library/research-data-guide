@@ -1,0 +1,15 @@
+# Preface {.unnumbered}
+
+The EUI Library Research Data Guide is the result of more than 10 years of experience matured by the EUI Library staff and colleagues from across the whole Institute. We deeply thank all who contributed and made their expertise available. It also benefits from many open resources developed and released by authoritative institutions in the area of Research Data Management. All resources are properly cited, but if you see a missing citation, please let us know. 
+
+## Note on the 12^th^ edition of the guide {.unnumbered}
+
+The **EUI Library Research Data Guide (12^th^ edition)** includes major changes with respect to the previous editions, in terms of structure, content and web publication. Building on the expertise developed by the EUI Library in the last decade, this edition aims to support improved navigation between the sections, additional resources to further explore each topic, and a finer-grained research data lifecycle. 
+
+For information about how this guide is built and published refer to its [README](https://github.com/EUI-Library/research-data-guide).
+
+For any questions, comments or feedback please reach out to [**Simone Sacchi**](https://www.eui.eu/people?id=simone-sacchi) EUI Research Data Librarian, or create an issue on the Research Data Guide [GitHub repository](https://github.com/EUI-Library/research-data-guide/issues)
+
+## Note on the previous editions of this guide
+
+All previous editions of the EUI Library Research Data Guide were curated by **[Thomas Bourke](https://www.eui.eu/people?id=thomas-bourke)**, _EUI Information Specialist for Economics and Social and Political Sciences_, who provided invaluable expertise and support to the entire EUI Academic Community. Full acknowledgment and recognition are given to his excellent work. 

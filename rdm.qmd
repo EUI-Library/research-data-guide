@@ -1,0 +1,16 @@
+# Research Data Management {.unnumbered}
+
+Data should be carefully managed throughout the duration of the research project. Particular attention should be given to data input, quality control, dataset design, data protection, data security and backup during the project. At an early stage, scholars should define
+dataset structure, file structure and variable naming. Documentation and codebooks should be updated throughout the research project. 
+
+The
+following guides are useful for scholars working in the social sciences
+and humanities:
+
+-   CESSDA Data Management Expert Guide[^73]
+
+-   JISC Research Data Management Toolkit[^74]
+
+-   Finnish Social Science Data Archive Guide[^75]
+
+-   UKDS Prepare and Manage Data Guide.[^76]
