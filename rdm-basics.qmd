@@ -1,0 +1,49 @@
+# The Basics {.unnumbered}
+
+
+This guide assumes certain concepts, and related definitions, provided here for reference.
+
+## Research Data
+Research data play a foundational role in Social Science and Humanities research, providing the scientific evidence for confirming hypotheses, backing claims and, more in general, substanciating research. 
+
+Here we adopt the following operational definition:
+
+::: {.callout-note icon=false appearance="simple"}
+
+_**Research data** is all information intentionally collected, observed, or generated to validate research findings and substanciate scientific claims._[^1]
+
+:::
+
+Data can be [quantitative](https://en.wikipedia.org/wiki/Quantitative_research){target="_blank"} or [qualitative](https://en.wikipedia.org/wiki/Qualitative_research){target="_blank"} in nature and take the forms of tables, text, images, audio/video recordings, archival material and other sources or physical evidence.
+
+
+<!-- In this section, information is organised according to the stages of the research data life cycle. You will find:
+- A general description and introduction of each stage.
+- A list of the main considerations that need to be taken into account during each stage.
+- Links to training materials related to each stage.
+- Links to related data management tasks that can be performed at each stage.
+- Links to a Data Stewardship Wizard for your DMP and to step-by-step instructions to make your data FAIR. -->
+
+## Research Data Management (RDM)
+
+::: {.callout-note icon=false appearance="simple"}
+
+Data should be carefully managed throughout the duration of the research project. Particular attention should be given to data input, quality control, dataset design, data protection, data security and backup during the project. At an early stage, scholars should define
+dataset structure, file structure and variable naming. Documentation and codebooks should be updated throughout the research project. 
+
+_**Research Data Management (RDM)** is an umbrella term covering how you organise, structure, store, and care for the digital information generated or used during a research project._[^2]
+
+:::
+
+ RDM practice usually includes:
+
+- Planning in advance how your data will be managed
+- Documenting working practices
+- Considering how information will be handled on a day-to-day basis
+- Making decisions on what happens to data in the long term –  after the project concludes
+- Preparing for data to be preserved
+- Considering whether the information may be reproducible]
+
+
+[^1]: The European Commission, under their Q&A on Open Science requirements for funded projects defines research data as "the information (facts or numbers) collected to be examined and considered, and to serve as a basis for reasoning, discussion or calculation." [https://rea.ec.europa.eu/open-science_en](https://rea.ec.europa.eu/open-science_en){target="_blank"}
+[^2]: We adopted the definition from Research Data Oxford [https://researchdata.ox.ac.uk/about-data-management](https://researchdata.ox.ac.uk/about-data-management){target="_blank"}]

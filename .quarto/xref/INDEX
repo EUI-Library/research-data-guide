@@ -79,5 +79,23 @@
   },
   "rdm.qmd": {
     "rdm.html": "e9e6c8ee"
+  },
+  "model-page.qmd": {
+    "model-page.html": "9c5066a5"
+  },
+  "model-chapter-page.qmd": {
+    "model-chapter-page.html": "507fd604"
+  },
+  "model-section-page.qmd": {
+    "model-section-page.html": "4d496dba"
+  },
+  "rdm-basics.qmd": {
+    "rdm-basics.html": "1ebbbbef"
+  },
+  "rdm-lifecycle.qmd": {
+    "rdm-lifecycle.html": "587c953d"
+  },
+  "rdm-fair-principles.qmd": {
+    "rdm-fair-principles.html": "328d37ec"
   }
 }

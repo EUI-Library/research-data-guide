@@ -4,11 +4,14 @@ project:
 
 book:
   title: "Research Data Guide"
-  subtitle: "Prepared by the EUI Library."
+  subtitle: |
+      12^th^ Edition. Prepared by the EUI Library."
   author: "EUI Library"
   editor: "Simone Sacchi"
   edition: "12"
   date: last-modified
+  original-date: 2024/06/30
+  license: "CC BY"
   cover-image: images/Cover-Data-Guide-2023-Small281x397.jpg
   repo-url: https://github.com/EUI-Library/research-data-guide
   sidebar:
@@ -21,13 +24,14 @@ book:
   chapters:
     - index.qmd
     - preface.qmd
-    - part: "Basics of this guide"
+    - how-to.qmd
+    - part: "RESEARCH DATA MANAGEMENT"
       chapters: 
-        - basic-concepts.qmd
-        - how-to.qmd
-    - part: "PART 1: PLAN AND MANAGE"
+        - rdm-basics.qmd
+        - rdm-lifecycle.qmd
+        - rdm-fair-principles.qmd
+    - part: "PART 1: PLAN AND DESIGN"
       chapters:
-        - rdm.qmd 
         - dmp.qmd
         - dmp-funded-projects.qmd
         - ethics-review.qmd
@@ -59,6 +63,8 @@ book:
         - eui-research-repository.qmd
         - other-publishing-routes.qmd
         - data-citation.qmd
+    - model-chapter-page.qmd
+    - model-section-page.qmd
     - references.qmd
 
 

@@ -1,4 +1,4 @@
-# Ethics review {.unnumbered}
+# Ethics Review {.unnumbered}
 
 The collection and processing of personal data for research purposes may require EUI scholars to apply for **Ethics Review**
 before data collection and processing can begin. 

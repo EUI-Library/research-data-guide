@@ -19,7 +19,7 @@ Data Management Plans (DMPs) are documents normally required by research funders
 
 
 ::: {.callout-tip}
-Preparing a DMP at the beginning of a research endeavour is an important step in making sure that data are properly managed and curated, prepared for possible [sharing and reuse](link), and in ensuring [transparency and reproducibility](link) of research. Early-stage researchers (like EUI PhD Researchers) are strongly invited to learn how to prepare a DMP, as they will be required when applying for future project funding.
+Preparing a DMP at the beginning of a research endeavour is an important step in making sure that data are properly managed and curated, prepared for possible [sharing and reuse](links), and in ensuring [transparency and reproducibility](link) of research. Early-stage researchers (like EUI PhD Researchers) are strongly invited to learn how to prepare a DMP, as they will be required when applying for future project funding.
 :::
 
 ## Preparing a Data Management Plan (DMP)]

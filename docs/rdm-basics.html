@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Research Data Guide – References</title>
+<title>Research Data Guide – Basic concepts</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,26 +20,7 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for citations */
-div.csl-bib-body { }
-div.csl-entry {
-  clear: both;
-}
-.hanging-indent div.csl-entry {
-  margin-left:2em;
-  text-indent:-2em;
-}
-div.csl-left-margin {
-  min-width:2em;
-  float:left;
-}
-div.csl-right-inline {
-  margin-left:2em;
-  padding-left:1em;
-}
-div.csl-indent {
-  margin-left: 2em;
-}</style>
+</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -49,7 +30,8 @@ div.csl-indent {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./model-section-page.html" rel="prev">
+<link href="./rdm-lifecycle.html" rel="next">
+<link href="./how-to.html" rel="prev">
 <link href="./images/favicon-32x32.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -100,7 +82,7 @@ div.csl-indent {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./references.html">References</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./rdm-basics.html">RESEARCH DATA MANAGEMENT</a></li><li class="breadcrumb-item"><a href="./rdm-basics.html">The Basics</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -160,8 +142,8 @@ div.csl-indent {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./rdm-basics.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Basic concepts</span></a>
+  <a href="./rdm-basics.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">The Basics</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -181,7 +163,7 @@ div.csl-indent {
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
- <span class="menu-text">PART 1: PLAN AND MANAGE</span></a>
+ <span class="menu-text">PART 1: PLAN AND DESIGN</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -384,7 +366,7 @@ div.csl-indent {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./references.html" class="sidebar-item-text sidebar-link active">
+  <a href="./references.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">References</span></a>
   </div>
 </li>
@@ -393,20 +375,27 @@ div.csl-indent {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#research-data" id="toc-research-data" class="nav-link active" data-scroll-target="#research-data">Research Data</a></li>
+  <li><a href="#research-data-management-rdm" id="toc-research-data-management-rdm" class="nav-link" data-scroll-target="#research-data-management-rdm">Research Data Management (RDM)</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
-<main class="content column-page-right" id="quarto-document-content">
+<main class="content column-body" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./rdm-basics.html">RESEARCH DATA MANAGEMENT</a></li><li class="breadcrumb-item"><a href="./rdm-basics.html">The Basics</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">References</h1>
+<h1 class="title">Basic concepts</h1>
 </div>
 
 
 
-<div class="quarto-title-meta column-page-right">
+<div class="quarto-title-meta column-body">
 
     
   
@@ -418,11 +407,60 @@ div.csl-indent {
 </header>
 
 
-<div id="refs" role="list" style="display: none">
-
+<p>This guide assumes certain concepts, and related definitions, provided here for reference.</p>
+<section id="research-data" class="level2">
+<h2 class="anchored" data-anchor-id="research-data">Research Data</h2>
+<p>Research data play a foundational role in Social Science and Humanities research, providing the scientific evidence for confirming hypotheses, backing claims and, more in general, substanciating research.</p>
+<p>Here we adopt the following operational definition:</p>
+<div class="callout callout-style-simple callout-note no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
 </div>
+<div class="callout-body-container">
+<p><em><strong>Research data</strong> is all information intentionally collected, observed, or generated to validate research findings and substanciate scientific claims.</em><a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
+</div>
+</div>
+</div>
+<p>Data can be <a href="https://en.wikipedia.org/wiki/Quantitative_research" target="_blank">quantitative</a> or <a href="https://en.wikipedia.org/wiki/Qualitative_research" target="_blank">qualitative</a> in nature and take the forms of tables, text, images, audio/video recordings, archival material and other sources or physical evidence.</p>
+<!-- In this section, information is organised according to the stages of the research data life cycle. You will find:
+- A general description and introduction of each stage.
+- A list of the main considerations that need to be taken into account during each stage.
+- Links to training materials related to each stage.
+- Links to related data management tasks that can be performed at each stage.
+- Links to a Data Stewardship Wizard for your DMP and to step-by-step instructions to make your data FAIR. -->
+</section>
+<section id="research-data-management-rdm" class="level2">
+<h2 class="anchored" data-anchor-id="research-data-management-rdm">Research Data Management (RDM)</h2>
+<div class="callout callout-style-simple callout-note no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p><em><strong>Research Data Management (RDM)</strong> is an umbrella term covering how you organise, structure, store, and care for the digital information generated or used during a research project.</em></p>
+</div>
+</div>
+</div>
+<p>RDM practice usually includes:</p>
+<ul>
+<li>Planning in advance how your data will be managed</li>
+<li>Documenting working practices</li>
+<li>Considering how information will be handled on a day-to-day basis</li>
+<li>Making decisions on what happens to data in the long term – after the project concludes</li>
+<li>Preparing for data to be preserved</li>
+<li>Considering whether the information may be reproducible<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a></li>
+</ul>
 
 
+</section>
+<section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn1"><p>The European Commission, under their Q&amp;A on Open Science requirements for funded projects defines research data as “the information (facts or numbers) collected to be examined and considered, and to serve as a basis for reasoning, discussion or calculation.” <a href="https://rea.ec.europa.eu/open-science_en" target="_blank">https://rea.ec.europa.eu/open-science_en</a><a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>We adopted the definition from Research Data Oxford <a href="https://researchdata.ox.ac.uk/about-data-management" target="_blank">https://researchdata.ox.ac.uk/about-data-management</a>]<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -845,13 +883,16 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
-<nav class="page-navigation column-page-right">
+<nav class="page-navigation column-body">
   <div class="nav-page nav-page-previous">
-      <a href="./model-section-page.html" class="pagination-link" aria-label="Model - Section Page">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Model - Section Page</span>
+      <a href="./how-to.html" class="pagination-link" aria-label="How to use this guide">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">How to use this guide</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
+      <a href="./rdm-lifecycle.html" class="pagination-link" aria-label="Research data Lifecycle">
+        <span class="nav-page-text">Research data Lifecycle</span> <i class="bi bi-arrow-right-short"></i>
+      </a>
   </div>
 </nav>
 </div> <!-- /content -->

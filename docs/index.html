@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="EUI Library">
-<meta name="dcterms.date" content="2024-05-02">
+<meta name="dcterms.date" content="2024-06-13">
 
 <title>Research Data Guide</title>
 <style>
@@ -126,10 +126,16 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Preface</span></a>
   </div>
 </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./how-to.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">How to use this guide</span></a>
+  </div>
+</li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
- <span class="menu-text">Basics of this guide</span></a>
+ <span class="menu-text">RESEARCH DATA MANAGEMENT</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -137,14 +143,20 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./basic-concepts.html" class="sidebar-item-text sidebar-link">
+  <a href="./rdm-basics.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Basic concepts</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./how-to.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">How to use this guide</span></a>
+  <a href="./rdm-lifecycle.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Research data Lifecycle</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./rdm-fair-principles.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">FAIR Principles</span></span></a>
   </div>
 </li>
       </ul>
@@ -160,12 +172,6 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./rdm.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Research Data Management</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
   <a href="./dmp.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Data Management Plan (DMP)</span></a>
   </div>
@@ -173,13 +179,13 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./dmp-funded-projects.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">DMPs and funded projects</span></a>
+ <span class="menu-text">DMPs and Funded Projects</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./ethics-review.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Ethics review</span></a>
+ <span class="menu-text">Ethics Review</span></a>
   </div>
 </li>
       </ul>
@@ -349,6 +355,18 @@ ul.task-list li input[type="checkbox"] {
   </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./model-chapter-page.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Model - Chapter Page</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./model-section-page.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Model - Section Page</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./references.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">References</span></a>
   </div>
@@ -365,7 +383,7 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Research Data Guide</h1>
-<p class="subtitle lead">Prepared by the EUI Library.</p>
+<p class="subtitle lead"></p><p>12<sup>th</sup> Edition. Prepared by the EUI Library.”</p><p></p>
 </div>
 
 
@@ -382,13 +400,19 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">May 2, 2024</p>
+      <p class="date">June 13, 2024</p>
     </div>
   </div>
   
     
   </div>
   
+<div>
+  <div class="abstract">
+    <div class="block-title">Abstract</div>
+    <p>The <strong>EUI Library Research Data Guide</strong> is as a one-stop-shop guide for all things research-data that may be useful to the EUI Academic Community.</p>
+  </div>
+</div>
 
 
 </header>
@@ -397,17 +421,15 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="welcome" class="level1 unnumbered unlisted">
 <h1 class="unnumbered unlisted">Welcome</h1><p><img src="images/Cover-Data-Guide-2023-Small281x397.jpg" title="Research Data Guide" class="quarto-cover-image img-fluid"></p>
-<p>Welcome to the 12<sup>th</sup> edition of <strong>EUI Library Research Data Guide</strong>. This guide is intended as a one-stop-shop guide for all things research-data-related that may be useful to the EUI Academic Community.</p>
-<p>This guide is curated bythe <a href="https://www.eui.eu/en/services/library">EUI Library</a> as part of the portfolio of resources provided by the <a href="https://www.eui.eu/research/library/researchdataservices">Research Data Services</a></p>
-<section id="availability-of-this-guide" class="level2 unnumbered unlisted">
-<h2 class="unnumbered unlisted anchored" data-anchor-id="availability-of-this-guide">Availability of this guide</h2>
-<p>The <strong>EUI Library Research Data Guide</strong> is released as an open project on GitHub so that the broader community can adapt and reuse it as needed. This guide is available in three different formats:</p>
+<p>This is the website of <strong>EUI Library Research Data Guide</strong>. This guide is intended as a one-stop-shop guide for all things research-data that may be useful to the EUI Academic Community.</p>
+<p>Each part and chapter will guide you through the core stages of the Research Data Lifecycle and provide practical guidance on how to make the best out of your research data.</p>
+<p>This guide is curated by the <a href="https://www.eui.eu/en/services/library">EUI Library</a> as part of the portfolio of resources provided by the <a href="https://www.eui.eu/research/library/researchdataservices">Research Data Services</a> This is the 12<sup>th</sup> edition of the EUI Library Research Data Guide, for more information about this and previous editions go to the <a href="./preface.html">Preface</a>.</p>
+<p>The <strong>EUI Library Research Data Guide</strong> is released as an open resource on GitHub so that the broader community can adapt and reuse it as needed. The guide is available in three different formats:</p>
 <ul>
-<li><p><strong>Web version</strong> (this website): <a href=""></a></p></li>
-<li><p><strong>PDF version</strong> (for offline consultation): <a href=""></a></p></li>
-<li><p><strong>GitHub repository</strong> (for contributing and reuse): <a href="https://github.com/EUI-Library/research-data-guide">https://github.com/EUI-Library/research-data-guide</a></p></li>
+<li><strong>Web version</strong>: <a href="https://eui-library.github.io/research-data-guide/">https://eui-library.github.io/research-data-guide/</a> (this website)</li>
+<li><strong>GitHub repository</strong>: <a href="https://github.com/EUI-Library/research-data-guide">https://github.com/EUI-Library/research-data-guide</a></li>
 </ul>
-<p>For any question, comment or feedback please reach out to <a href="https://www.eui.eu/people?id=simone-sacchi"><strong>Simone Sacchi</strong></a> or create an issue on the Research Data Guide <a href="https://github.com/EUI-Library/research-data-guide/issues">GitHub repository</a></p>
+<p>For any questions, comment or feedback please reach out to the <a href="https://www.eui.eu/people?id=simone-sacchi">EUI Research Data Librarian</a> or create an issue on the Research Data Guide <a href="https://github.com/EUI-Library/research-data-guide/issues">GitHub repository</a></p>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -418,12 +440,11 @@ Note
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>The Research Data Guide is, and will always be, a free and open resource. This guide will be udated on a regular basis, but it also receives an official annual release number (we are now at the 12<sup>th</sup> edition) that consolidates all the updates and revisions issued throughout the year.</p>
+<p>The Research Data Guide is, and will always be, <strong>free and open</strong>. This guide will be updated regularly, but it also receives an official annual release (we are now at the 12<sup>th</sup> edition) that consolidates all the updates and revisions issued throughout the year.</p>
 </div>
 </div>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->

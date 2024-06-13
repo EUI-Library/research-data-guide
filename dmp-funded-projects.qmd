@@ -1,4 +1,4 @@
-# DMPs and funded projects {.unnumbered}
+# DMPs and Funded Projects {.unnumbered}
 
 Most funding agencies are now requiring grantees to submit a Data Management Plan (DMP) as part of the required project deliverables, with updated versions issued after the initial 6 months, at mid-term, and at the end of the project. 
 

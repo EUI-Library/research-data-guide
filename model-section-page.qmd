@@ -1,0 +1,34 @@
+---
+abstract: |
+  This section evaluates novel approaches to do
+  some really important things. This abstract also describes learning outcomes.
+abstract-title: Summary
+---
+
+# Model - Section Page {.unnumbered}
+
+## First Section
+
+First section text
+
+## Second Section
+
+Second section text
+
+## Tips and Resources
+
+::: {.callout-tip}
+
+### Tip title
+
+Add tips here
+
+:::
+
+::: {.callout-note appearance="simple"}
+
+## Resouces
+
+OER resources here
+
+:::

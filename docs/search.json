@@ -4,17 +4,7 @@
     "href": "index.html",
     "title": "Research Data Guide",
     "section": "",
-    "text": "Welcome\nWelcome to the 12th edition of EUI Library Research Data Guide. This guide is intended as a one-stop-shop guide for all things research-data-related that may be useful to the EUI Academic Community.\nThis guide is curated bythe EUI Library as part of the portfolio of resources provided by the Research Data Services",
-    "crumbs": [
-      "Welcome"
-    ]
-  },
-  {
-    "objectID": "index.html#availability-of-this-guide",
-    "href": "index.html#availability-of-this-guide",
-    "title": "Research Data Guide",
-    "section": "Availability of this guide",
-    "text": "Availability of this guide\nThe EUI Library Research Data Guide is released as an open project on GitHub so that the broader community can adapt and reuse it as needed. This guide is available in three different formats:\n\nWeb version (this website): \nPDF version (for offline consultation): \nGitHub repository (for contributing and reuse): https://github.com/EUI-Library/research-data-guide\n\nFor any question, comment or feedback please reach out to Simone Sacchi or create an issue on the Research Data Guide GitHub repository\n\n\n\n\n\n\nNote\n\n\n\nThe Research Data Guide is, and will always be, a free and open resource. This guide will be udated on a regular basis, but it also receives an official annual release number (we are now at the 12th edition) that consolidates all the updates and revisions issued throughout the year.",
+    "text": "Welcome\nThis is the website of EUI Library Research Data Guide. This guide is intended as a one-stop-shop guide for all things research-data that may be useful to the EUI Academic Community.\nEach part and chapter will guide you through the core stages of the Research Data Lifecycle and provide practical guidance on how to make the best out of your research data.\nThis guide is curated by the EUI Library as part of the portfolio of resources provided by the Research Data Services This is the 12th edition of the EUI Library Research Data Guide, for more information about this and previous editions go to the Preface.\nThe EUI Library Research Data Guide is released as an open resource on GitHub so that the broader community can adapt and reuse it as needed. The guide is available in three different formats:\n\nWeb version: https://eui-library.github.io/research-data-guide/ (this website)\nGitHub repository: https://github.com/EUI-Library/research-data-guide\n\nFor any questions, comment or feedback please reach out to the EUI Research Data Librarian or create an issue on the Research Data Guide GitHub repository\n\n\n\n\n\n\nNote\n\n\n\nThe Research Data Guide is, and will always be, free and open. This guide will be updated regularly, but it also receives an official annual release (we are now at the 12th edition) that consolidates all the updates and revisions issued throughout the year.",
     "crumbs": [
       "Welcome"
     ]
@@ -40,68 +30,12 @@
     ]
   },
   {
-    "objectID": "basic-concepts.html",
-    "href": "basic-concepts.html",
-    "title": "Basic concepts",
-    "section": "",
-    "text": "Research Data\nData can be quantitative or qualitative in nature and take the forms of tables, text, images, audio/video recordings, archival material and other sources or physical evidence.\nSimilar definitions are available online.[^longnote]",
-    "crumbs": [
-      "Basics of this guide",
-      "Basic concepts"
-    ]
-  },
-  {
-    "objectID": "basic-concepts.html#research-data",
-    "href": "basic-concepts.html#research-data",
-    "title": "Basic concepts",
-    "section": "",
-    "text": "Research data is all information intentionally collected, observed, or generated to validate research findings and substanciate scientific claims.1",
-    "crumbs": [
-      "Basics of this guide",
-      "Basic concepts"
-    ]
-  },
-  {
-    "objectID": "basic-concepts.html#research-data-lifecycle",
-    "href": "basic-concepts.html#research-data-lifecycle",
-    "title": "Basic concepts",
-    "section": "Research Data Lifecycle",
-    "text": "Research Data Lifecycle\n\n\n\n\n\n\nThe Research Data Lifecycle describes the different stages research data go through before, during, and after a research project. The research data lifecycle includes everything from planning how data will be collected, to publication, to long-term data preservation, to possible reuses of data.\n\n\n\nFor this quide we adopt the following Research Data Lifecycle model2:\n[add image here, adapted from RDMkit]",
-    "crumbs": [
-      "Basics of this guide",
-      "Basic concepts"
-    ]
-  },
-  {
-    "objectID": "basic-concepts.html#research-data-management-rdm",
-    "href": "basic-concepts.html#research-data-management-rdm",
-    "title": "Basic concepts",
-    "section": "Research Data Management (RDM)",
-    "text": "Research Data Management (RDM)\n\n\n\n\n\n\nResearch Data Management (RDM) is an umbrella term covering how you organise, structure, store, and care for the digital information generated or used during a research project.\n\n\n\nRDM practice usually includes:\n\nPlanning in advance how your data will be managed\nDocumenting working practices\nConsidering how information will be handled on a day-to-day basis\nMaking decisions on what happens to data in the long term – after the project concludes\nPreparing for data to be preserved\nConsidering whether the information may be reproducible3",
-    "crumbs": [
-      "Basics of this guide",
-      "Basic concepts"
-    ]
-  },
-  {
-    "objectID": "basic-concepts.html#footnotes",
-    "href": "basic-concepts.html#footnotes",
-    "title": "Basic concepts",
-    "section": "",
-    "text": "The European Commission, under their Q&A on Open Science requirements for funded projects defines research data as “the information (facts or numbers) collected to be examined and considered, and to serve as a basis for reasoning, discussion or calculation.” https://rea.ec.europa.eu/open-science_en↩︎\nModel adapted from RDMlit↩︎\nWe adopted the definition from Research Data Oxford https://researchdata.ox.ac.uk/about-data-management]↩︎",
-    "crumbs": [
-      "Basics of this guide",
-      "Basic concepts"
-    ]
-  },
-  {
     "objectID": "how-to.html",
     "href": "how-to.html",
     "title": "How to use this guide",
     "section": "",
     "text": "What to expect in each chapter\nEach chapter of the guide strive to include:",
     "crumbs": [
-      "Basics of this guide",
       "How to use this guide"
     ]
   },
@@ -112,7 +46,6 @@
     "section": "",
     "text": "Practical guidance on the specific topic with examples\nDirect linking to available EUI resources, tools, and support\nelected open resources to support additional and more in-depth self-paced training",
     "crumbs": [
-      "Basics of this guide",
       "How to use this guide"
     ]
   },
@@ -123,19 +56,62 @@
     "section": "How to seach the guide",
     "text": "How to seach the guide\n\n\n\n\n\n\nTip\n\n\n\n\n\n\n\n\n\nUse the search tool in the sidebar to quickly find your topic of interest and recieve autosuggestions:",
     "crumbs": [
-      "Basics of this guide",
       "How to use this guide"
     ]
   },
   {
-    "objectID": "rdm.html",
-    "href": "rdm.html",
-    "title": "Research Data Management",
+    "objectID": "rdm-basics.html",
+    "href": "rdm-basics.html",
+    "title": "Basic concepts",
     "section": "",
-    "text": "Data should be carefully managed throughout the duration of the research project. Particular attention should be given to data input, quality control, dataset design, data protection, data security and backup during the project. At an early stage, scholars should define dataset structure, file structure and variable naming. Documentation and codebooks should be updated throughout the research project.\nThe following guides are useful for scholars working in the social sciences and humanities:\n\nCESSDA Data Management Expert Guide[^73]\nJISC Research Data Management Toolkit[^74]\nFinnish Social Science Data Archive Guide[^75]\nUKDS Prepare and Manage Data Guide.[^76]",
+    "text": "Research Data\nResearch data play a foundational role in Social Science and Humanities research, providing the scientific evidence for confirming hypotheses, backing claims and, more in general, substanciating research.\nHere we adopt the following operational definition:\nData can be quantitative or qualitative in nature and take the forms of tables, text, images, audio/video recordings, archival material and other sources or physical evidence.",
     "crumbs": [
-      "PART 1: PLAN AND MANAGE",
-      "Research Data Management"
+      "RESEARCH DATA MANAGEMENT",
+      "The Basics"
+    ]
+  },
+  {
+    "objectID": "rdm-basics.html#research-data",
+    "href": "rdm-basics.html#research-data",
+    "title": "Basic concepts",
+    "section": "",
+    "text": "Research data is all information intentionally collected, observed, or generated to validate research findings and substanciate scientific claims.1",
+    "crumbs": [
+      "RESEARCH DATA MANAGEMENT",
+      "The Basics"
+    ]
+  },
+  {
+    "objectID": "rdm-basics.html#research-data-management-rdm",
+    "href": "rdm-basics.html#research-data-management-rdm",
+    "title": "Basic concepts",
+    "section": "Research Data Management (RDM)",
+    "text": "Research Data Management (RDM)\n\n\n\n\n\n\nResearch Data Management (RDM) is an umbrella term covering how you organise, structure, store, and care for the digital information generated or used during a research project.\n\n\n\nRDM practice usually includes:\n\nPlanning in advance how your data will be managed\nDocumenting working practices\nConsidering how information will be handled on a day-to-day basis\nMaking decisions on what happens to data in the long term – after the project concludes\nPreparing for data to be preserved\nConsidering whether the information may be reproducible2",
+    "crumbs": [
+      "RESEARCH DATA MANAGEMENT",
+      "The Basics"
+    ]
+  },
+  {
+    "objectID": "rdm-basics.html#footnotes",
+    "href": "rdm-basics.html#footnotes",
+    "title": "Basic concepts",
+    "section": "",
+    "text": "The European Commission, under their Q&A on Open Science requirements for funded projects defines research data as “the information (facts or numbers) collected to be examined and considered, and to serve as a basis for reasoning, discussion or calculation.” https://rea.ec.europa.eu/open-science_en↩︎\nWe adopted the definition from Research Data Oxford https://researchdata.ox.ac.uk/about-data-management]↩︎",
+    "crumbs": [
+      "RESEARCH DATA MANAGEMENT",
+      "The Basics"
+    ]
+  },
+  {
+    "objectID": "rdm-lifecycle.html#footnotes",
+    "href": "rdm-lifecycle.html#footnotes",
+    "title": "Research data Lifecycle",
+    "section": "",
+    "text": "Model adapted from RDMlit↩︎",
+    "crumbs": [
+      "RESEARCH DATA MANAGEMENT",
+      "Research data Lifecycle"
     ]
   },
   {
@@ -196,45 +172,45 @@
   {
     "objectID": "dmp-funded-projects.html",
     "href": "dmp-funded-projects.html",
-    "title": "DMPs and funded projects",
+    "title": "DMPs and Funded Projects",
     "section": "",
     "text": "EUI research data guidelines and standards\nEUI members can cite these institutional guidelines in their data management plans:",
     "crumbs": [
       "PART 1: PLAN AND MANAGE",
-      "DMPs and funded projects"
+      "DMPs and Funded Projects"
     ]
   },
   {
     "objectID": "dmp-funded-projects.html#eui-research-data-guidelines-and-standards",
     "href": "dmp-funded-projects.html#eui-research-data-guidelines-and-standards",
-    "title": "DMPs and funded projects",
+    "title": "DMPs and Funded Projects",
     "section": "",
     "text": "EUI ‘Code of Ethics in Academic Research’\nEUI Library ‘Research Data Guide’",
     "crumbs": [
       "PART 1: PLAN AND MANAGE",
-      "DMPs and funded projects"
+      "DMPs and Funded Projects"
     ]
   },
   {
     "objectID": "dmp-funded-projects.html#footnotes",
     "href": "dmp-funded-projects.html#footnotes",
-    "title": "DMPs and funded projects",
+    "title": "DMPs and Funded Projects",
     "section": "",
     "text": "European Commission - Research and Innovation - Open Science https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/open-science_en↩︎",
     "crumbs": [
       "PART 1: PLAN AND MANAGE",
-      "DMPs and funded projects"
+      "DMPs and Funded Projects"
     ]
   },
   {
     "objectID": "ethics-review.html#footnotes",
     "href": "ethics-review.html#footnotes",
-    "title": "Ethics review",
+    "title": "Ethics Review",
     "section": "",
     "text": "https://www.eui.eu/en/public/about/committees/ethics-committee↩︎",
     "crumbs": [
       "PART 1: PLAN AND MANAGE",
-      "Ethics review"
+      "Ethics Review"
     ]
   },
   {
@@ -466,6 +442,66 @@
     "crumbs": [
       "PART 5: ANALYSE AND VISUALISE",
       "High Performance Computing (HPC)"
+    ]
+  },
+  {
+    "objectID": "model-chapter-page.html",
+    "href": "model-chapter-page.html",
+    "title": "Model - Chapter Page",
+    "section": "",
+    "text": "First Section\nFirst section text",
+    "crumbs": [
+      "Model - Chapter Page"
+    ]
+  },
+  {
+    "objectID": "model-chapter-page.html#second-section",
+    "href": "model-chapter-page.html#second-section",
+    "title": "Model - Chapter Page",
+    "section": "Second Section",
+    "text": "Second Section\nSecond section text",
+    "crumbs": [
+      "Model - Chapter Page"
+    ]
+  },
+  {
+    "objectID": "model-chapter-page.html#tips-and-resources",
+    "href": "model-chapter-page.html#tips-and-resources",
+    "title": "Model - Chapter Page",
+    "section": "Tips and Resources",
+    "text": "Tips and Resources\n\n\n\n\n\n\nTip title\n\n\n\nAdd tips here\n\n\n\n\n\n\n\n\nResouces\n\n\n\nOER resources here",
+    "crumbs": [
+      "Model - Chapter Page"
+    ]
+  },
+  {
+    "objectID": "model-section-page.html",
+    "href": "model-section-page.html",
+    "title": "Model - Section Page",
+    "section": "",
+    "text": "First Section\nFirst section text",
+    "crumbs": [
+      "Model - Section Page"
+    ]
+  },
+  {
+    "objectID": "model-section-page.html#second-section",
+    "href": "model-section-page.html#second-section",
+    "title": "Model - Section Page",
+    "section": "Second Section",
+    "text": "Second Section\nSecond section text",
+    "crumbs": [
+      "Model - Section Page"
+    ]
+  },
+  {
+    "objectID": "model-section-page.html#tips-and-resources",
+    "href": "model-section-page.html#tips-and-resources",
+    "title": "Model - Section Page",
+    "section": "Tips and Resources",
+    "text": "Tips and Resources\n\n\n\n\n\n\nTip title\n\n\n\nAdd tips here\n\n\n\n\n\n\n\n\nResouces\n\n\n\nOER resources here",
+    "crumbs": [
+      "Model - Section Page"
     ]
   }
 ]

@@ -1,0 +1,13 @@
+# Research data Lifecycle {.unnumbered}
+
+::: {.callout-note icon=false appearance="simple"}
+
+*The **Research Data Lifecycle** describes the different stages research data go through before, during, and after a research project. The research data lifecycle includes everything from planning how data will be collected, to publication, to long-term data preservation, to possible reuses of data.* 
+
+:::
+
+For this quide we adopt the following **Research Data Lifecycle** model[^1]:
+
+[add image here, adapted from RDMkit]
+
+[^1]: Model adapted from [RDMlit](https://rdmkit.elixir-europe.org/data_life_cycle){target="_blank"}

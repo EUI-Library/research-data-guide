@@ -1,21 +1,23 @@
+---
+abstract: |
+  The **EUI Library Research Data Guide** is as a one-stop-shop guide for all things research-data that may be useful to the EUI Academic Community.
+---
+
 # Welcome {.unnumbered .unlisted}
 
-Welcome to the 12^th^ edition of **EUI Library Research Data Guide**. This guide is intended as a one-stop-shop guide for all things research-data-related that may be useful to the EUI Academic Community.
+This is the website of **EUI Library Research Data Guide**. This guide is intended as a one-stop-shop guide for all things research-data that may be useful to the EUI Academic Community. 
 
-This guide is curated bythe [EUI Library](https://www.eui.eu/en/services/library) as part of the portfolio of resources provided by the [Research Data Services](https://www.eui.eu/research/library/researchdataservices)
+Each part and chapter will guide you through the core stages of the Research Data Lifecycle and provide practical guidance on how to make the best out of your research data. 
 
-## Availability of this guide {.unnumbered .unlisted}
+This guide is curated by the [EUI Library](https://www.eui.eu/en/services/library) as part of the portfolio of resources provided by the [Research Data Services](https://www.eui.eu/research/library/researchdataservices) This is the 12^th^ edition of the EUI Library Research Data Guide, for more information about this and previous editions go to the [Preface](/preface.html).
 
-The **EUI Library Research Data Guide** is  released as an open project on GitHub so that the broader community can adapt and reuse it as needed. This guide is available in three different formats:
+The **EUI Library Research Data Guide** is released as an open resource on GitHub so that the broader community can adapt and reuse it as needed. The guide is available in three different formats:
 
-- **Web version** (this website): []()
+- **Web version**: [https://eui-library.github.io/research-data-guide/](https://eui-library.github.io/research-data-guide/) (this website)
+- **GitHub repository**: [https://github.com/EUI-Library/research-data-guide](https://github.com/EUI-Library/research-data-guide)
 
-- **PDF version** (for offline consultation): []()
-
-- **GitHub repository** (for contributing and reuse): [https://github.com/EUI-Library/research-data-guide](https://github.com/EUI-Library/research-data-guide)
-
-For any question, comment or feedback please reach out to [**Simone Sacchi**](https://www.eui.eu/people?id=simone-sacchi) or create an issue on the Research Data Guide [GitHub repository](https://github.com/EUI-Library/research-data-guide/issues)
+For any questions, comment or feedback please reach out to the [EUI Research Data Librarian](https://www.eui.eu/people?id=simone-sacchi) or create an issue on the Research Data Guide [GitHub repository](https://github.com/EUI-Library/research-data-guide/issues)
 
 ::: {.callout-note}
-The Research Data Guide is, and will always be, a free and open resource. This guide will be udated on a regular basis, but it also receives an official annual release number (we are now at the 12^th^ edition) that consolidates all the updates and revisions issued throughout the year.
+The Research Data Guide is, and will always be, **free and open**. This guide will be updated regularly, but it also receives an official annual release (we are now at the 12^th^ edition) that consolidates all the updates and revisions issued throughout the year.
 :::
