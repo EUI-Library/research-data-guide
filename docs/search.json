@@ -62,7 +62,7 @@
   {
     "objectID": "rdm-basics.html",
     "href": "rdm-basics.html",
-    "title": "Basic concepts",
+    "title": "The Basics",
     "section": "",
     "text": "Research Data\nResearch data play a foundational role in Social Science and Humanities research, providing the scientific evidence for confirming hypotheses, backing claims and, more in general, substanciating research.\nHere we adopt the following operational definition:\nData can be quantitative or qualitative in nature and take the forms of tables, text, images, audio/video recordings, archival material and other sources or physical evidence.",
     "crumbs": [
@@ -73,7 +73,7 @@
   {
     "objectID": "rdm-basics.html#research-data",
     "href": "rdm-basics.html#research-data",
-    "title": "Basic concepts",
+    "title": "The Basics",
     "section": "",
     "text": "Research data is all information intentionally collected, observed, or generated to validate research findings and substanciate scientific claims.1",
     "crumbs": [
@@ -84,9 +84,9 @@
   {
     "objectID": "rdm-basics.html#research-data-management-rdm",
     "href": "rdm-basics.html#research-data-management-rdm",
-    "title": "Basic concepts",
+    "title": "The Basics",
     "section": "Research Data Management (RDM)",
-    "text": "Research Data Management (RDM)\n\n\n\n\n\n\nResearch Data Management (RDM) is an umbrella term covering how you organise, structure, store, and care for the digital information generated or used during a research project.\n\n\n\nRDM practice usually includes:\n\nPlanning in advance how your data will be managed\nDocumenting working practices\nConsidering how information will be handled on a day-to-day basis\nMaking decisions on what happens to data in the long term – after the project concludes\nPreparing for data to be preserved\nConsidering whether the information may be reproducible2",
+    "text": "Research Data Management (RDM)\n\n\n\n\n\n\nData should be carefully managed throughout the duration of the research project. Particular attention should be given to data input, quality control, dataset design, data protection, data security and backup during the project. At an early stage, scholars should define dataset structure, file structure and variable naming. Documentation and codebooks should be updated throughout the research project.\nResearch Data Management (RDM) is an umbrella term covering how you organise, structure, store, and care for the digital information generated or used during a research project.2\n\n\n\nRDM practice usually includes:\n\nPlanning in advance how your data will be managed\nDocumenting working practices\nConsidering how information will be handled on a day-to-day basis\nMaking decisions on what happens to data in the long term – after the project concludes\nPreparing for data to be preserved\nConsidering whether the information may be reproducible]",
     "crumbs": [
       "RESEARCH DATA MANAGEMENT",
       "The Basics"
@@ -95,7 +95,7 @@
   {
     "objectID": "rdm-basics.html#footnotes",
     "href": "rdm-basics.html#footnotes",
-    "title": "Basic concepts",
+    "title": "The Basics",
     "section": "",
     "text": "The European Commission, under their Q&A on Open Science requirements for funded projects defines research data as “the information (facts or numbers) collected to be examined and considered, and to serve as a basis for reasoning, discussion or calculation.” https://rea.ec.europa.eu/open-science_en↩︎\nWe adopted the definition from Research Data Oxford https://researchdata.ox.ac.uk/about-data-management]↩︎",
     "crumbs": [
@@ -115,13 +115,68 @@
     ]
   },
   {
+    "objectID": "rdm-fair-principles.html",
+    "href": "rdm-fair-principles.html",
+    "title": "The FAIR Principles",
+    "section": "",
+    "text": "FAIR principles and environmental sustainability",
+    "crumbs": [
+      "RESEARCH DATA MANAGEMENT",
+      "The FAIR Principles"
+    ]
+  },
+  {
+    "objectID": "rdm-fair-principles.html#fair-principles-and-environmental-sustainability",
+    "href": "rdm-fair-principles.html#fair-principles-and-environmental-sustainability",
+    "title": "The FAIR Principles",
+    "section": "",
+    "text": "“FAIR practices can result in highly efficient code implementations, reduce the need to retrain models, and reduce unnecessary data generation/storage, thus reducing the overall carbon footprint. As a result, green computing and FAIR practices may boht stimulate innovation and reduce financial costs.” - {cite:ps}Lannelongue2023greener",
+    "crumbs": [
+      "RESEARCH DATA MANAGEMENT",
+      "The FAIR Principles"
+    ]
+  },
+  {
+    "objectID": "rdm-fair-principles.html#fair-principles-and-accessibility",
+    "href": "rdm-fair-principles.html#fair-principles-and-accessibility",
+    "title": "The FAIR Principles",
+    "section": "FAIR principles and accessibility",
+    "text": "FAIR principles and accessibility\nThe Accessible in FAIR is not equal to ensuring that your research objects are accessibles to all users. For this, the term “actually accessible” has been coined by {cite:ps}Colon2023accessibility to refer to data that is “easy to locate, obtain, interpret, use, share, and analyze for everybody, including disabled people.”\n(rr-rdm-fair-community)= ## Community involvement\nVarious online resources are provided for people who are working in the life sciences, to guide them in ensuring FAIRness in their data, providing them with tools and advice for good data management at various stages of their work. Two prominent ones include: * Under the FAIR Cookbook, several resources are offering guidance and assistance in FAIR data management. The FAIR Cookbook is designed to serve a variety of audience types and involved in different stages of data management life cycle. The FAIR Cookbook is developed and maintained by life sciences professionals, both in the academia and industry sectors, including members of the ELIXIR community. * Under ELIXIR Research Data Management Kit (RDMkit), resources are provided for life scientists to guide them in better management of their research data in adhering to the FAIR Principles. It is an attempt to help researchers work at different capacities, both in individual and collaborative workspaces. The RDMkit is open for suggestions from anyone, as long as they abide by the contributor responsibilities.\nMany groups and organisations are working to define guidance and tools to help researchers and other stakeholders (like librarians, funders, publishers, and trainers) make data more FAIR. There are two global initiatives that act as umbrella organisations and reference points for many discipline-specific efforts, including the ones listed above: GOFAIR and the Research Data Alliance (RDA). * Under GOFAIR, there are many Implementation Networks (INs) committed to implementing the FAIR principles. * Under the RDA, there are several groups tackling different aspects relevant to the RDM life cycle. Among these, one group, the FAIR Data Maturity Model Working Group is reviewing existing efforts, building on them to define a standard set of common assessment criteria for the evaluation of FAIRness.",
+    "crumbs": [
+      "RESEARCH DATA MANAGEMENT",
+      "The FAIR Principles"
+    ]
+  },
+  {
+    "objectID": "rdm-fair-principles.html#more-information",
+    "href": "rdm-fair-principles.html#more-information",
+    "title": "The FAIR Principles",
+    "section": "More information",
+    "text": "More information\n\nDeep dive into the FAIR principles by Dr. Maryann Martone (45 minute video)",
+    "crumbs": [
+      "RESEARCH DATA MANAGEMENT",
+      "The FAIR Principles"
+    ]
+  },
+  {
+    "objectID": "rdm-fair-principles.html#credits",
+    "href": "rdm-fair-principles.html#credits",
+    "title": "The FAIR Principles",
+    "section": "Credits",
+    "text": "Credits\nContent in this chapter has been adapted and reused from the excellent work:\n\nThe Turing Way Community. (2022). The Turing Way: A handbook for reproducible, ethical and collaborative research (1.0.2). Zenodo. DOI 10.5281/zenodo.3233853\n\nAll credit is given.",
+    "crumbs": [
+      "RESEARCH DATA MANAGEMENT",
+      "The FAIR Principles"
+    ]
+  },
+  {
     "objectID": "dmp.html",
     "href": "dmp.html",
     "title": "Data Management Plan (DMP)",
     "section": "",
     "text": "Preparing a Data Management Plan (DMP)]\nEvery DMP is a unique document, grounded in the individual research project and it is the responsibility of the Principal Investigator (PI), or delegated person (e.g. the project manager, or member of the research team) to write and deliver a comprehensive, accurate and original data management plan.\nThe FAIR data principles - to make data findable, accessible, interoperable and reusable - must be considered during the preparation and revision of data management plans. Detailed information about these four principles is available in the grid below.\nThe following supporting materials should be consulted during the preparation of EUI DMPs:\nScholars preparing a data management plan for funded projects should also carefully follow the instructions provided by the relevant science programme office (eg. Horizon Europe, European Research Council etc.). Where a DMP template is provided, this must be used, for example:\nIt is important to update DMPs throughout the research project, incorporating new information about data collection, data generation, methodologies and relevant changes to the composition of the research team or consortium (for intenrational collaborative projects).",
     "crumbs": [
-      "PART 1: PLAN AND MANAGE",
+      "PART 1: PLAN AND DESIGN",
       "Data Management Plan (DMP)"
     ]
   },
@@ -132,7 +187,7 @@
     "section": "",
     "text": "EUI Code of Ethics\nEUI ’Guide to Good Data Protection Practice in Research\nEUI Guidelines on Ethics and Integrity in Academic Research\nEUI Library Research Data Guide (this guide)\n\n\n\nHorizon Europe DMP template in the Horizon Europe Work Programme\nERC DMP template in the ERC Work Programme.\n\n\n\n\n\n\n\n\nTip\n\n\n\nThe EUI Library can provide feedback and guidance. Please, reach out to the Research Data Librarian",
     "crumbs": [
-      "PART 1: PLAN AND MANAGE",
+      "PART 1: PLAN AND DESIGN",
       "Data Management Plan (DMP)"
     ]
   },
@@ -143,7 +198,7 @@
     "section": "Common elements of a DMP",
     "text": "Common elements of a DMP\nWhen preparing a DMP scholars can follow these prompts to address all core aspects:\n\n\n\n\n\n\nOverview of research project\n\n\n\n\nProvide an overview of the research project, indicating discipline/sub-discipline, inter-disciplinary scope, methodology and primary research questions\n\nList the types of data being collected, generated, processed and used.\n\n\n\n\n\n\n\n\n\nAnticipated data outputs and utility\n\n\n\n\nDescribe expected data outputs\nDistinguish (where applicable) between (i) in-project data which will not be shared and (ii) post-project research dataset outputs (public or embargoed)\n\nDescribe expected public utility; eg. for researchers,\npolicymakers, media organisations and the general public\nDescribe possible inter-disciplinary use\nDescribe data quality assurance processes.\n\n\n\n\n\n\n\n\n\nResources required for data collection, generation, processing and use\n\n\n\n\nProvide a detailed description of data collection, generation, processing and use\nDescribe anticipated technical and research assistance\nrequirements\nGive an overview of the data management responsibilities of\nresearch project leaders, team members and (where applicable) institutional partners.\n\n\n\n\n\n\n\n\n\nData security, infrastructure and protocols\n\n\n\n\nEUI members should write to the Data Security Officer to request the standard description of data security, infrastructure and protocols. This internal document describes layered physical and network security, authentication protocols and other elements for inclusion in data management plans.\n\n\n\n\n\n\n\n\n\nEthical considerations\n\n\n\n\nDescribe data protection measures in place to scrupulously guarantee that persons, families and households are not identifiable in any dataset outputs\nEUI Ethics Committee review may be required before the collection and processing of personal data. Ethics Committee approval cannot be granted retroactively. EUI members should initiate the request for Ethics Review before collecting data.\nConsultation with the EUI Data Protection Officer and/or Data Security Officer may be required (included in the Ethical Review).\nMaintain a record of pre-existing data resources used in the project, and comply with copyright provisions.\nContact the Research Data Librarian for assistance.",
     "crumbs": [
-      "PART 1: PLAN AND MANAGE",
+      "PART 1: PLAN AND DESIGN",
       "Data Management Plan (DMP)"
     ]
   },
@@ -154,7 +209,7 @@
     "section": "FAIR principles in DMPs",
     "text": "FAIR principles in DMPs\nMost funding programmes, including ERC and other Horizon Europe schemes, have embraced the principles and practices of Open Science, fostering the approach that data should always be “as open as possible and as closed as necessary”.\nThe FAIR principles have been adopted as a guiding rubric in DMPs to ensure that research data are effectively Findable, Accessible, Interoperable and Reusable. The FAIR principles also shaped the most recent version of the DMP templates for ERC and Horizon Europe.\nHere following a few elements that Principal Investigators and Project Managers have to consider when addressing the FAIR principles in their DMP:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaking data Findable\n\n\n\n\nIdentify the repository where data outputs will be preserved and, where possible, made openly available; eg. the EUI research\nrepository, Cadmus.\nDescribe how folders, files, variables and versions will be\nconsistently named to aid discovery\nDatasets should be assigned accurate and consistent metadata to\naid findability and machine-retrievability (Section 6.c)\nDatasets should have persistent, unique digital object\nidentifiers (eg. handles generated by the EUI research\nrepository, Cadmus).\n\n\n\n\n\n\n\n\n\nMaking data Accessible\n\n\n\n\nDistinguish between in-project data which will remain closed (or will be destroyed) after the project; and data outputs which will be preserved and (where possible) openly shared after the project\nFor restricted data, give reasons for restricted status (eg.\npersonal data protection and/or database copyright compliance)\nFor restricted data the terms and conditions for access should be explicitly stated (even if these might be revised as the research progresses)\nFor sharable data, the status ‘open’ (accessible immediately) or ‘embargoed’ (accessible at a later date) should be assigned\nDescribe data protection and anonymisation measures in detail\nDescribe the software packages/tools required to use the data\nMetadata records are indexed in the EUI research repository,\nCadmus, which provides machine-readable metadata for indexing by search engines and application programming interfaces (eg. Google Scholar, OpenAIRE and CORE).\n\n\n\n\n\n\n\n\n\nMaking data Interoperable\n\n\n\n\nProvide details of any standard controlled vocabularies (ontologies, thesauri and taxonomies) from the relevant discipline (social sciences, humanities, ethnography &c.)\nVariable schemas should be readable by standard software packages to facilitate data interoperability\nStandard metadata and naming conventions should be used\nThe EUI research repository, Cadmus, uses web standards (the underlying DSpace software adopts standards for embedded micro-data and the OAI-PMH interoperability protocol) providing both human- and machine-readable interfaces to search, discover and access reposited data.\n\n\n\n\n\n\n\n\n\nMaking data Reusable\n\n\n\n\nOpen data generated by the research project should be made available under an open licence that clearly states reuse conditions - either the Creative Commons Attribution International license: CC-BY International[^49] or the Creative Commons Public Domain Universal license: CC0\nSupporting documentation and codebooks (PDF/A documents and ‘readme.txt’ files) should be reposited with the data to make the observations comprehensible and reusable by other scholars and stakeholders\nProvide information about any tools or instruments necessary to reuse or verify the data (software, algorithms, routines, models &c.)\nNote any data embargo period, where applicable.",
     "crumbs": [
-      "PART 1: PLAN AND MANAGE",
+      "PART 1: PLAN AND DESIGN",
       "Data Management Plan (DMP)"
     ]
   },
@@ -165,7 +220,7 @@
     "section": "Data management planning tools",
     "text": "Data management planning tools\nOnline tools can be used to prepare structured data management plans - complying with EU Horizon Europe, European Research Council, and other science funder DMP requirements.\n\nDMPonline[^53] (maintained by the Digital Curation Centre) can be accessed via ‘Create Account’ at the upper right of the DMPonline homepage. For organisation enter ‘other’. Select the science funder's template. The principal investigator (P.I.) should be identified in the data management plan. For research teams, the P.I. can assign DMP sharing rights by entering colleagues’ email addresses and assigning the status of ‘co-owner’, ‘editor’ or ‘read only.’ Enter project details (title, abstract, &c.) and click on ‘Initial DMP’ in the top menu. Complete the sub-fields to generate the data management plan. A Word document can be generated. If the science funder provides a DMP template, the text generated in DMPonline can be transferred into the funder's template.\nThe Research Data Management Organiser (RDMO)[^54] is an online tool available in German and English to support research data management. RDMO is maintained by the Deutsche Forschungsgemeinschaft (DFG).\nArgos[^55] is an online DMP creation tool maintained by OpenAIRE. Create an account on the Argos platform, click ‘Launch Wizard’ and follow the step-by-step instructions.\nThe DMP Evaluation Rubric[^56] developed by Science Europe, provides core criteria which can be used by principal investigators and project managers to evaluate data management plans.\nFAIRsharing is a data support service of the Data Readiness Group and the Bodleian Library, University of Oxford, providing resources for data and metadata standards and research data management.[^57]\nThe F-UJI Automated Fair Data Assessment Tool[^58] maintained by the Fostering FAIR Data Practices In Europe project, helps scholars comply with the FAIR Guiding Principles for scientific data management that ensure data are - and remain - findable, accessible, interoperable and reusable (FAIR).\nFAIR-Aware[^59] maintained by the Data Archiving and Networked Services Institute is an online checklist tool to help researchers build compliance with the FAIR data principles.\nThe DMP Catalogue[^60] maintained by LIBER, provides examples of research data management plans.",
     "crumbs": [
-      "PART 1: PLAN AND MANAGE",
+      "PART 1: PLAN AND DESIGN",
       "Data Management Plan (DMP)"
     ]
   },
@@ -176,7 +231,7 @@
     "section": "",
     "text": "EUI research data guidelines and standards\nEUI members can cite these institutional guidelines in their data management plans:",
     "crumbs": [
-      "PART 1: PLAN AND MANAGE",
+      "PART 1: PLAN AND DESIGN",
       "DMPs and Funded Projects"
     ]
   },
@@ -187,7 +242,7 @@
     "section": "",
     "text": "EUI ‘Code of Ethics in Academic Research’\nEUI Library ‘Research Data Guide’",
     "crumbs": [
-      "PART 1: PLAN AND MANAGE",
+      "PART 1: PLAN AND DESIGN",
       "DMPs and Funded Projects"
     ]
   },
@@ -198,7 +253,7 @@
     "section": "",
     "text": "European Commission - Research and Innovation - Open Science https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/open-science_en↩︎",
     "crumbs": [
-      "PART 1: PLAN AND MANAGE",
+      "PART 1: PLAN AND DESIGN",
       "DMPs and Funded Projects"
     ]
   },
@@ -209,7 +264,7 @@
     "section": "",
     "text": "https://www.eui.eu/en/public/about/committees/ethics-committee↩︎",
     "crumbs": [
-      "PART 1: PLAN AND MANAGE",
+      "PART 1: PLAN AND DESIGN",
       "Ethics Review"
     ]
   },
