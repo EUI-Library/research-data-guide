@@ -64,7 +64,7 @@
     "href": "rdm-basics.html",
     "title": "The Basics",
     "section": "",
-    "text": "Research Data\nResearch data play a foundational role in Social Science and Humanities research, providing the scientific evidence for confirming hypotheses, backing claims and, more in general, substanciating research.\nHere we adopt the following operational definition:\nData can be quantitative or qualitative in nature and take the forms of tables, text, images, audio/video recordings, archival material and other sources or physical evidence.",
+    "text": "Research Data\nResearch data play a foundational role in Social Science and Humanities research, providing the scientific evidence for confirming hypotheses, backing claims and, more in general, substanciating research.\nData can be quantitative or qualitative in nature and take the forms of tables, text, images, audio/video recordings, archival material and other sources or physical evidence.",
     "crumbs": [
       "RESEARCH DATA MANAGEMENT",
       "The Basics"
@@ -86,7 +86,7 @@
     "href": "rdm-basics.html#research-data-management-rdm",
     "title": "The Basics",
     "section": "Research Data Management (RDM)",
-    "text": "Research Data Management (RDM)\n\n\n\n\n\n\nData should be carefully managed throughout the duration of the research project. Particular attention should be given to data input, quality control, dataset design, data protection, data security and backup during the project. At an early stage, scholars should define dataset structure, file structure and variable naming. Documentation and codebooks should be updated throughout the research project.\nResearch Data Management (RDM) is an umbrella term covering how you organise, structure, store, and care for the digital information generated or used during a research project.2\n\n\n\nRDM practice usually includes:\n\nPlanning in advance how your data will be managed\nDocumenting working practices\nConsidering how information will be handled on a day-to-day basis\nMaking decisions on what happens to data in the long term – after the project concludes\nPreparing for data to be preserved\nConsidering whether the information may be reproducible]",
+    "text": "Research Data Management (RDM)\n\n\n\n\n\n\nResearch Data Management (RDM) is an umbrella term covering how you organise, structure, store, and care for the digital information generated or used during a research project.2\n\n\n\nRDM practice usually includes:\n\nPlanning in advance how your data will be managed\nDocumenting working practices\nConsidering how information will be handled on a day-to-day basis\nMaking decisions on what happens to data in the long term – after the project concludes\nPreparing for data to be preserved\nConsidering whether the information may be reproducible]\n\nData should be carefully managed throughout the duration of the research project. Particular attention should be given to data input, quality control, dataset design, data protection, data security and backup during the project. At an early stage, scholars should define dataset structure, file structure and variable naming. Documentation and codebooks should be updated throughout the research project.",
     "crumbs": [
       "RESEARCH DATA MANAGEMENT",
       "The Basics"

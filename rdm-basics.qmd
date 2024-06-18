@@ -3,7 +3,7 @@
 ::: {.callout-warning icon=false}
 ## Learning outcomes
 
-  - Basic concepts of Research Data Management
+  - Understand the basic concepts in Research Data Management
 :::
 
 ## Research Data
@@ -30,9 +30,6 @@ Data can be [quantitative](https://en.wikipedia.org/wiki/Quantitative_research){
 
 ::: {.callout-note icon=false appearance="simple"}
 
-Data should be carefully managed throughout the duration of the research project. Particular attention should be given to data input, quality control, dataset design, data protection, data security and backup during the project. At an early stage, scholars should define
-dataset structure, file structure and variable naming. Documentation and codebooks should be updated throughout the research project. 
-
 _**Research Data Management (RDM)** is an umbrella term covering how you organise, structure, store, and care for the digital information generated or used during a research project._[^2]
 
 :::
@@ -46,6 +43,8 @@ _**Research Data Management (RDM)** is an umbrella term covering how you organis
 - Preparing for data to be preserved
 - Considering whether the information may be reproducible]
 
+Data should be carefully managed throughout the duration of the research project. Particular attention should be given to data input, quality control, dataset design, data protection, data security and backup during the project. At an early stage, scholars should define
+dataset structure, file structure and variable naming. Documentation and codebooks should be updated throughout the research project. 
 
 [^1]: The European Commission, under their Q&A on Open Science requirements for funded projects defines research data as "the information (facts or numbers) collected to be examined and considered, and to serve as a basis for reasoning, discussion or calculation." [https://rea.ec.europa.eu/open-science_en](https://rea.ec.europa.eu/open-science_en){target="_blank"}
 [^2]: We adopted the definition from Research Data Oxford [https://researchdata.ox.ac.uk/about-data-management](https://researchdata.ox.ac.uk/about-data-management){target="_blank"}]
