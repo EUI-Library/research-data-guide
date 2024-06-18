@@ -1,22 +1,40 @@
+---
+abstract: |
+  This chapter explains how to use this guide effectively and provides tips for search, browse and navigation.
+abstract-title: Summary
+---
+
 # How to use this guide {.unnumbered}
 
-The **EUI Research Data Guide** is intended as a reference resource (i.e. not intended to be read linearly, beginnig to the end) but all chapters link to one another to provide a comprehensive perspective on the data services and support provided by the EUI.
+::: {.callout-warning icon=false}
+## Learning outcomes
 
-Here some tips for you make the best out of this guide.
+  - The structure of this guide
+  - How to search and navigate the guide
+  - What to expect in every chapter
+:::
+
+## Structure of the guide
+The **EUI Research Data Guide** is intended as a reference resource (i.e. not intended to be read linearly, beginning to the end) but all chapters link to one another to provide a comprehensive perspective on the data services and support provided by the EUI.
+
+Its structure follows the [Research Data Lifecycle](rdm-lifecycle.qmd) in an attempt to cover core aspects of data discovery, management, analysis and sharing.
 
 ## What to expect in each chapter
 
-Each chapter of the guide strive to include:
+Each chapter of the **EUI Research Data Guide** provides guidance on a specific aspect or stage in the Research Data Lifecycle and is organized as follows:
 
-- **Practical guidance** on the specific topic with examples
+- Explicit **learning outcomes**
+- A general description and **introduction** of each aspect/stage.
+- A list of the **main considerations** that need to be taken into account during each stage.
+- Tips and **practical guidance** on the specific topic
 - Direct linking to **available EUI resources, tools, and support**
-- elected **open resources** to support additional and more in-depth self-paced training
+- Selected **open resources** to support additional and more in-depth self-paced training
 
-## How to seach the guide
+## How to search this guide
 
 ::: {.callout-tip}
 ::: {layout-ncol=2}
-Use the **search tool** in the sidebar to quickly find your topic of interest and recieve autosuggestions:
+Use the **search tool** in the sidebar to quickly find your topic of interest and receive autosuggestions:
 
 ![](images/search-tool.png){.lightbox fig-align="right"}
 :::

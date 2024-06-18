@@ -7,6 +7,14 @@ abstract-title: Summary
 
 # Model - Chapter Page {.unnumbered}
 
+::: {.callout-warning icon=false}
+## Learning outcomes
+
+  - TBD
+  - TBD
+  - TBD
+:::
+
 ## First Section
 
 First section text

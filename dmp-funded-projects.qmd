@@ -1,8 +1,15 @@
 # DMPs and Funded Projects {.unnumbered}
 
+
+
 Most funding agencies are now requiring grantees to submit a Data Management Plan (DMP) as part of the required project deliverables, with updated versions issued after the initial 6 months, at mid-term, and at the end of the project. 
 
-EUI **Principal Investigators** and **Project Managers** have the responsibility to make sure that a DMP is prepared according to the guidance and templates of the specific funding agency. The Horizon Europe Programme Guide[^61] and the ERC Work Programme[^62] provide guidance for project proposers.
+EUI **Principal Investigators** and **Project Managers** preparing a data management plan for funded projects should carefully follow the instructions provided by the relevant science programme office (eg. **Horizon Europe**, **European Research Council** etc.). Where a DMP template is provided, this must be used, for example: 
+
+- [Horizon Europe DMP template](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/report/data-management-plan_he_en.docx) in the [Horizon Europe Work Programme](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf)
+- [ERC DMP template](https://erc.europa.eu/sites/default/files/document/file/ERC-Data-Management-Plan.docx) in the [ERC Work Programme](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2022/wp_horizon-erc-2022_en.pdf).
+
+
 
 Data management sections of project proposals are evaluated by the European Commission under the criterion 'impact', which includes scientific and societal benefit. In this context, most funding agencies have been embracing the principles and practice of **Open Science**, defined by the European Commission as 
 

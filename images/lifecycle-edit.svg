@@ -1,18 +1,5 @@
-# Research Data Lifecycle {.unnumbered}
-
-::: {.callout-warning icon=false}
-## Learning outcomes
-
-  - Stages in the Research Data Lifecycle
-
-:::
-
-
-The **Research Data Lifecycle** describes the different stages research data go through before, during, and after a research project. The research data lifecycle includes everything from planning how data will be collected, to publication, to long-term data preservation, to possible reuses of data.
-
-For this guide, we adopt the following model[^1]:
-
-<svg id="data-life-cycle-index" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 250.9 288" height="40%">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="data-life-cycle-index" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 250.9 288">
   <defs>
     <style>
       .cls-1 {
@@ -75,10 +62,6 @@ For this guide, we adopt the following model[^1]:
       .cls-9 {
         fill: #8aba56;
       }
-      .cls-7:hover,.cls-2:hover,.cls-8:hover,.cls-9:hover,.cls-5:hover,.cls-4:hover,.cls-1:hover {fill:#73757d;cursor: pointer;transition: fill 0.3s;}
-      .cls-7,.cls-2,.cls-8,.cls-9,.cls-5,.cls-4,.cls-1 {transition: fill 0.3s;}
-      .cls-6 {fill:#FFFFFF; pointer-events: none;}
-      text {pointer-events : none;}
     </style>
     <symbol id="Badge_3_-_Green" data-name="Badge 3 - Green" viewBox="0 0 8.8 6.1">
       <g>
@@ -125,7 +108,6 @@ For this guide, we adopt the following model[^1]:
       <path class="cls-6" d="M113.7,226.5c1.6,0,3.2,0,4.7.3.9.2,1.9.4,2.7.7.5.2,1.1.5,1.5.8.3.2.4.5.5.8,0,.3,0,.5-.3.8s-.7.6-1.2.8c-.7.3-1.5.5-2.2.7-1.2.3-2.6.4-3.9.5-2,0-4.2,0-6.2-.4-.9-.2-1.7-.4-2.5-.7-.5-.2-1-.5-1.3-.9-.2-.2-.4-.5-.4-.8s.3-.6.5-.9c.6-.5,1.3-.7,2.1-.9,1.1-.3,2.2-.5,3.4-.6.8,0,1.6,0,2.4-.2h.2Z"/>
     </g>
   </g>
-  <a href="processing-use-sensitive-data.qmd">
   <g id="link-to-analysing2">
     <g id="AnalysePath2">
       <path class="cls-8" d="M149,236.8l1-36.2c-7.5,3.3-15.8,5.1-24.5,5.1s-16.6-1.7-24-4.9l-29.1,21.8.9,35.5c15.9,7.3,33.6,11.4,52.2,11.4s36-4,51.7-11.1l-28.2-21.6h0Z"/>
@@ -134,7 +116,6 @@ For this guide, we adopt the following model[^1]:
       <path class="cls-6" d="M33.9,179.3h4.3c.4,0,.8.4.8.8v8.8c0,.3,0,.6-.4.8-.2.1-.4.2-.5.2h-3.7c-.3,0-.6,0-.8-.1-.3-.1-.4-.5-.4-.8v-9.1c0-.3.2-.6.6-.6h.1Z"/>
     </g>
   </g>
-  </a>
   <g id="link-to-planning2">
     <g id="PlanPath2">
       <path class="cls-5" d="M144.4,50.1l-16.6,32.3c17.5.7,33.2,8.6,44,20.9l35.7-7,14.6-32.4c-22.5-27.1-56.1-44.6-93.9-45.4l16.2,31.6h0Z"/>
@@ -219,5 +200,3 @@ For this guide, we adopt the following model[^1]:
     </g>
   </g>
 </svg>
-
-[^1]: Model adapted from [RDMlit](https://rdmkit.elixir-europe.org/data_life_cycle){target="_blank"}

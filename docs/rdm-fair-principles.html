@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -149,7 +169,7 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./rdm-lifecycle.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Research data Lifecycle</span></a>
+ <span class="menu-text">Research Data Lifecycle</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -409,15 +429,29 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>(rr-rdm-fair)=</p>
-<p>The FAIR guiding principles for scientific data management and stewardship {cite:ps}<code>Wilkinson2016fair</code> were developed as guidelines to improve the <strong>F</strong>indability, <strong>A</strong>ccessibility, <strong>I</strong>nteroperability and <strong>R</strong>eusability of digital assets; all of which support research reproducibility. The FAIR principles play an important role in making your data available to others for reuse.</p>
-<p>It is much easier to make data FAIR if you plan to do this from the beginning of your research project. You can plan for this in your Data Management Plan (DMP) (see points 4 and 5 of the {ref}<code>Data Management Plan&lt;rr-rdm-dmp&gt;</code> chapter).</p>
+<div class="callout callout-style-default callout-warning no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Learning outcomes
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>How to apply the <strong>F</strong>indable, <strong>A</strong>ccessible, <strong>I</strong>nteroperable and <strong>R</strong>eusable (<strong>FAIR</strong>) guiding principles when working with data</li>
+</ul>
+</div>
+</div>
+<p>The FAIR guiding principles for scientific data management and stewardship <span class="citation" data-cites="Wilkinson2016fair">(<a href="references.html#ref-Wilkinson2016fair" role="doc-biblioref">Wilkinson et al. 2016</a>)</span> were developed as guidelines to improve the <strong>F</strong>indability, <strong>A</strong>ccessibility, <strong>I</strong>nteroperability and <strong>R</strong>eusability of digital assets. All of which support research reproducibility. The FAIR principles play an important role in making your data available to others for reuse but also make you aware of the importance of data in the scholarly communication landscape.</p>
+<p>It is much easier to make data FAIR if you plan to do this from the beginning of your research project. You can plan for this in your Data Management Plan (DMP) (see chapter <span class="quarto-unresolved-ref">?sec-dmp</span> for details).</p>
 <p>Even though the FAIR principles have been defined to allow machines to find and use digital objects automatically, they improve the reusability of data by humans as well. The capacity of computational systems to find, access, interoperate, and reuse data, with none or minimal human intervention, is essential in today’s data-driven era, where humans increasingly rely on computational support to deal with data as a result of the increase in <a href="https://www.zdnet.com/article/volume-velocity-and-variety-understanding-the-three-vs-of-big-data/">volume, velocity and variety</a>.</p>
 <p>This chapter provides an abstract and broad view of what the FAIR principles are. How to put the FAIR principles into practice is discussed in other chapters ( {ref}<code>Data Organisation in Spreadsheets&lt;rr-rdm-fair&gt;</code>, {ref}<code>Documentation and Metadata&lt;rr-rdm-metadata&gt;</code> and {ref}<code>Sharing and Archiving Data&lt;rr-rdm-sharing&gt;</code>). You can also use the <a href="https://f1000researchdata.s3.amazonaws.com/resources/FAIR_Open_GettingStarted.pdf">Wellcome Getting Started Guide</a> or the <a href="https://howtofair.dk/">How To FAIR</a> website to find out more about the FAIR principles and how to get started.</p>
 <table class="caption-top table">
 <thead>
 <tr class="header">
-<th>```jzlwrvkz ../../figures/fair-principles.*</th>
+<th>```ynqwokhm ../../figures/fair-principles.*</th>
 </tr>
 </thead>
 <tbody>
@@ -468,6 +502,11 @@ ul.task-list li input[type="checkbox"] {
 <p>All credit is given.</p>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-Wilkinson2016fair" class="csl-entry" role="listitem">
+Wilkinson, Mark D., Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Appleton, Myles Axton, Arie Baak, Niklas Blomberg, et al. 2016. <span>“<span class="nocase">The FAIR Guiding Principles for scientific data management and stewardship</span>.”</span> <em>Sci. Data</em> 3 (160018): 1–9. <a href="https://doi.org/10.1038/sdata.2016.18">https://doi.org/10.1038/sdata.2016.18</a>.
+</div>
+</div>
 </section>
 
 </main> <!-- /main -->
@@ -893,8 +932,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation column-body">
   <div class="nav-page nav-page-previous">
-      <a href="./rdm-lifecycle.html" class="pagination-link" aria-label="Research data Lifecycle">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Research data Lifecycle</span>
+      <a href="./rdm-lifecycle.html" class="pagination-link" aria-label="Research Data Lifecycle">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Research Data Lifecycle</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">

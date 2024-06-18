@@ -4,8 +4,8 @@ project:
 
 book:
   title: "Research Data Guide"
-  subtitle: |
-      12^th^ Edition. Prepared by the EUI Library."
+#  subtitle: |
+#      12^th^ Edition. Prepared by the EUI Library."
   author: "EUI Library"
   editor: "Simone Sacchi"
   edition: "12"

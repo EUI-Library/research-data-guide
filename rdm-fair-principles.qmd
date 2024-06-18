@@ -1,11 +1,15 @@
-(rr-rdm-fair)=
 # The FAIR Principles {.unnumbered}
 
-The FAIR guiding principles for scientific data management and stewardship {cite:ps}`Wilkinson2016fair` were developed as guidelines to improve the **F**indability, **A**ccessibility, **I**nteroperability and **R**eusability of digital assets; all of which support research reproducibility.
-The FAIR principles play an important role in making your data available to others for reuse.
+::: {.callout-warning icon=false}
+## Learning outcomes
 
-It is much easier to make data FAIR if you plan to do this from the beginning of your research project.
-You can plan for this in your Data Management Plan (DMP) (see points 4 and 5 of the {ref}`Data Management Plan<rr-rdm-dmp>` chapter).
+  - How to apply the **F**indable, **A**ccessible, **I**nteroperable and **R**eusable (**FAIR**) guiding principles when working with data
+
+:::
+
+The FAIR guiding principles for scientific data management and stewardship [@Wilkinson2016fair] were developed as guidelines to improve the **F**indability, **A**ccessibility, **I**nteroperability and **R**eusability of digital assets. All of which support research reproducibility. The FAIR principles play an important role in making your data available to others for reuse but also make you aware of the importance of data in the scholarly communication landscape.
+
+It is much easier to make data FAIR if you plan to do this from the beginning of your research project. You can plan for this in your Data Management Plan (DMP) (see chapter @sec-dmp for details).
 
 Even though the FAIR principles have been defined to allow machines to find and use digital objects automatically, they improve the reusability of data by humans as well.
 The capacity of computational systems to find, access, interoperate, and reuse data, with none or minimal human intervention, is essential in today's data-driven era, where humans increasingly rely on computational support to deal with data as a result of the increase in [volume, velocity and

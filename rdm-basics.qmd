@@ -1,18 +1,20 @@
 # The Basics {.unnumbered}
 
+::: {.callout-warning icon=false}
+## Learning outcomes
 
-This guide assumes certain concepts, and related definitions, provided here for reference.
+  - Basic concepts of Research Data Management
+:::
 
 ## Research Data
-Research data play a foundational role in Social Science and Humanities research, providing the scientific evidence for confirming hypotheses, backing claims and, more in general, substanciating research. 
-
-Here we adopt the following operational definition:
 
 ::: {.callout-note icon=false appearance="simple"}
 
 _**Research data** is all information intentionally collected, observed, or generated to validate research findings and substanciate scientific claims._[^1]
 
 :::
+
+Research data play a foundational role in Social Science and Humanities research, providing the scientific evidence for confirming hypotheses, backing claims and, more in general, substanciating research. 
 
 Data can be [quantitative](https://en.wikipedia.org/wiki/Quantitative_research){target="_blank"} or [qualitative](https://en.wikipedia.org/wiki/Qualitative_research){target="_blank"} in nature and take the forms of tables, text, images, audio/video recordings, archival material and other sources or physical evidence.
 
